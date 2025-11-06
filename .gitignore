@@ -19,10 +19,24 @@ App Data/Backups/**/*.xls
 # Generated output files
 App Data/Output/
 App Data/Backups/
+App Data/Backup/
+App Data/runs/
 
 # Case folders with PDFs and personal information
 New Clients/
 New Files/
+
+# Browser automation cache (large and not needed)
+**/playwright_profile/
+
+# Windows reserved filenames (cannot be added to Git)
+nul
+NUL
+CON
+PRN
+AUX
+com[0-9]
+lpt[0-9]
 
 # ========================================
 # API CREDENTIALS AND TOKENS (CRITICAL)
