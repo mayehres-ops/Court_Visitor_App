@@ -1,0 +1,244 @@
+# Court Visitor App .gitignore
+# Prevents sensitive data from being uploaded to GitHub
+
+# ========================================
+# USER DATA (CRITICAL - HIPAA PROTECTED)
+# ========================================
+
+# Excel database with real ward/guardian data
+# EXCEPTION: The blank template ward_guardian_info.xlsx SHOULD be included
+# After you clear all rows, Git will allow it to be uploaded
+# App Data/ward_guardian_info.xlsx  ← COMMENTED OUT - include blank template
+
+# Other Excel files in App Data (generated files)
+App Data/Output/**/*.xlsx
+App Data/Output/**/*.xls
+App Data/Backups/**/*.xlsx
+App Data/Backups/**/*.xls
+
+# Generated output files
+App Data/Output/
+App Data/Backups/
+
+# Case folders with PDFs and personal information
+New Clients/
+New Files/
+
+# ========================================
+# API CREDENTIALS AND TOKENS (CRITICAL)
+# ========================================
+
+# Google API credentials
+Config/API/
+Config/API/*.json
+Config/Keys/
+Config/Keys/*.json
+credentials.json
+token_gmail.json
+token_calendar.json
+token_sheets.json
+token_drive.json
+token.json
+**/credentials.json
+**/token*.json
+
+# Service account keys
+*-key.json
+service-account*.json
+
+# ========================================
+# CONFIGURATION FILES (USER-SPECIFIC)
+# ========================================
+
+# Court Visitor personal info
+Config/court_visitor_info.json
+
+# App settings
+Config/app_settings.json
+Config/eula_accepted.json
+
+# Email configurations
+Config/email_config.json
+
+# Mileage addresses
+Config/mileage_config.json
+
+# ========================================
+# PYTHON RUNTIME
+# ========================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# ========================================
+# IDE AND EDITOR FILES
+# ========================================
+
+# VS Code
+.vscode/
+.vscode/*
+*.code-workspace
+
+# PyCharm
+.idea/
+.idea/*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ========================================
+# OPERATING SYSTEM FILES
+# ========================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ========================================
+# BACKUP FILES
+# ========================================
+
+# Backup files
+*.bak
+*.backup
+*_backup_*
+*_BACKUP_*
+*.old
+
+# ZIP backups
+*_Backup_*.zip
+CourtVisitorApp_Backup_*.zip
+
+# ========================================
+# LOG FILES
+# ========================================
+
+# Application logs
+*.log
+logs/
+*.log.*
+
+# ========================================
+# TEMPORARY FILES
+# ========================================
+
+# Temp files
+*.tmp
+*.temp
+~$*
+*.~*
+
+# Test files
+test_*.py
+*_test.py
+test/
+tests/
+
+# ========================================
+# ENVIRONMENT FILES
+# ========================================
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# ========================================
+# DOCUMENTATION (USER-SPECIFIC)
+# ========================================
+
+# Generated PDFs with personal info
+# (Keep template PDFs in Templates/)
+# App Data/**/*.pdf
+
+# Personal notes
+NOTES.md
+TODO.md
+SCRATCH.md
+
+# ========================================
+# WHAT TO INCLUDE IN GITHUB
+# ========================================
+
+# These files SHOULD be in the repo:
+# - guardianship_app.py
+# - Scripts/ (all .py files)
+# - Automation/ (all .py files)
+# - Templates/ (BLANK templates only)
+# - Documentation/ (all .md files)
+# - EULA.txt
+# - CHANGELOG.md
+# - README.md
+# - .gitignore (this file)
+
+# ========================================
+# SECURITY NOTES
+# ========================================
+
+# If you accidentally commit sensitive data:
+# 1. IMMEDIATELY revoke all API credentials in Google Cloud Console
+# 2. Generate new credentials
+# 3. Contact support for help removing from Git history
+# 4. Consider the data breach protocol if HIPAA data was exposed
+
+# Always run 'git status' before 'git commit' to verify
+# what files are being added!

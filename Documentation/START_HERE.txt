@@ -1,0 +1,47 @@
+================================================================================
+                        GUARDIANSHIP APP - START HERE
+================================================================================
+
+Welcome! Follow these steps to get started:
+
+STEP 1: INSTALL DEPENDENCIES (Required - First Time Only)
+--------------------------------------------------------------------------------
+Double-click:  INSTALL_DEPENDENCIES.bat
+
+This will install all required Python libraries. Takes 5-10 minutes.
+You only need to do this once when you first set up the app.
+
+
+STEP 2: LAUNCH THE APP
+--------------------------------------------------------------------------------
+Double-click:  launch_app.bat
+
+Or create a desktop shortcut by double-clicking:  Create_Desktop_Shortcut.vbs
+
+
+STEP 3: SETUP GOOGLE VISION API (Required for Step 1 - OCR)
+--------------------------------------------------------------------------------
+1. Launch the app
+2. Click "Google API Setup" in the sidebar
+3. Follow the 5-step wizard
+4. Download your credentials.json key
+5. Install it using the browse button
+
+
+STEP 4: READ THE USER MANUAL
+--------------------------------------------------------------------------------
+Open:  Court_Visitor_App_Manual.pdf
+
+Or open:  GETTING_STARTED.md  (detailed instructions)
+
+
+NEED HELP?
+--------------------------------------------------------------------------------
+- Click "Live Tech Support" button in the app
+- Choose AI assistant (Claude recommended)
+- Copy and paste the context to get help
+
+
+================================================================================
+Copyright (c) 2024 GuardianShip Easy, LLC. All rights reserved.
+================================================================================

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Court Visitor App - Download</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 800px;
+            width: 100%;
+            padding: 40px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .version {
+            color: #666;
+            font-size: 18px;
+        }
+
+        .download-section {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .download-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px 50px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6);
+        }
+
+        .file-info {
+            margin-top: 15px;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .requirements {
+            margin: 30px 0;
+        }
+
+        .requirements h2 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .req-list {
+            list-style: none;
+        }
+
+        .req-list li {
+            padding: 10px 0;
+            padding-left: 30px;
+            position: relative;
+            color: #555;
+        }
+
+        .req-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        .steps {
+            background: #fff8e1;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .steps h3 {
+            color: #f57c00;
+            margin-bottom: 15px;
+        }
+
+        .steps ol {
+            margin-left: 20px;
+            color: #555;
+        }
+
+        .steps li {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+
+        .support {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 2px solid #eee;
+        }
+
+        .support a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .support a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">⚖️</div>
+            <h1>Court Visitor App</h1>
+            <p class="version">Version 1.0.0 • Released [DATE]</p>
+        </div>
+
+        <div class="download-section">
+            <a href="[YOUR_DOWNLOAD_LINK]" class="download-btn">
+                ⬇️ Download Now
+            </a>
+            <div class="file-info">
+                <p><strong>File:</strong> CourtVisitorApp_v1.0.0.zip</p>
+                <p><strong>Size:</strong> ~50 MB</p>
+                <p><strong>Platform:</strong> Windows 10/11</p>
+            </div>
+        </div>
+
+        <div class="requirements">
+            <h2>System Requirements</h2>
+            <ul class="req-list">
+                <li>Windows 10 or Windows 11</li>
+                <li>Python 3.10 or higher</li>
+                <li>4GB RAM (8GB recommended)</li>
+                <li>500MB free disk space</li>
+                <li>Microsoft Word (for document generation)</li>
+                <li>Internet connection (for Google services)</li>
+            </ul>
+        </div>
+
+        <div class="steps">
+            <h3>📋 Quick Installation Steps</h3>
+            <ol>
+                <li>Download the ZIP file above</li>
+                <li>Extract to <code>C:\CourtVisitorApp\</code></li>
+                <li>Run <code>INSTALL.bat</code> to install dependencies</li>
+                <li>Follow the setup guide for Google API configuration</li>
+                <li>Launch the app using <code>Launch Court Visitor App.vbs</code></li>
+            </ol>
+            <p style="margin-top: 15px;">
+                <strong>📖 Full installation guide included in download</strong>
+            </p>
+        </div>
+
+        <div class="support">
+            <p><strong>Need Help?</strong></p>
+            <p>Email: <a href="mailto:support@yourcompany.com">support@yourcompany.com</a></p>
+            <p>Documentation: <a href="[LINK_TO_DOCS]">View Installation Guide</a></p>
+        </div>
+
+        <div class="footer">
+            <p>Copyright © 2024 GuardianShip Easy, LLC. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>

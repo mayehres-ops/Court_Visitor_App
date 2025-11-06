@@ -1,0 +1,1115 @@
+Folder PATH listing for volume OS
+Volume serial number is 4E3D-6A72
+C:.
+¦   AI_HELP_CONTEXT.txt
+¦   app_directory.txt
+¦   convert_readme_simple.py
+¦   convert_readme_to_pdf.py
+¦   Court_Visitor_App_Manual.pdf
+¦   Court_Visitor_App_Manual_Updated.md
+¦   court_visitor_chatbot.py
+¦   Create_Desktop_Shortcut.ps1
+¦   Create_Desktop_Shortcut.vbs
+¦   DOCUMENT_AI_CONFIG_TEMPLATE.env
+¦   email_cvr_to_supervisor.py
+¦   extraction_debug.log
+¦   geocode_cache.csv
+¦   google_sheets_cvr_integration_fixed.py
+¦   guardianship_app.py
+¦   guardian_extractor_claudecode20251023_bestever_11pm.py
+¦   INSTALL_DEPENDENCIES.bat
+¦   Launch Court Visitor App.vbs
+¦   launch_app.bat
+¦   layout_mockup.html
+¦   MANUAL_UPDATE_CHECKLIST.txt
+¦   nul
+¦   README.md
+¦   README_FIRST.docx
+¦   README_FIRST.md
+¦   README_FIRST.pdf
+¦   requirements.txt
+¦   SET_GOOGLE_MAPS_KEY.bat
+¦   three_column_mockup.html
+¦   Ward_Map_Sheet.docx
+¦   
++---App Data
+¦   ¦   chatbot_stats.json
+¦   ¦   ward_guardian_info.backup-20251030-150548.xlsx
+¦   ¦   ward_guardian_info.backup-20251031-141747.xlsx
+¦   ¦   ward_guardian_info.xlsx
+¦   ¦   ward_guardian_info_current.xlsx
+¦   ¦   ward_guardian_info__backup_20251030_090038.xlsx
+¦   ¦   
+¦   +---Backup
+¦   ¦   ¦   ward_guardian_info.backup_20251030_152146.xlsx
+¦   ¦   ¦   ward_guardian_info.backup_20251030_154854.xlsx
+¦   ¦   ¦   
+¦   ¦   +---CVR_Folder_Builder_Backup
+¦   ¦   ¦       cvr_folder_builder_automation_backup_20251030.py
+¦   ¦   ¦       cvr_folder_builder_from_Scripts_20251030.py
+¦   ¦   ¦       
+¦   ¦   +---Excel File Backups
+¦   ¦   ¦       ward_guardian_info.backup-20251025-175203.xlsx
+¦   ¦   ¦       ward_guardian_info.backup-20251025-180257.xlsx
+¦   ¦   ¦       ward_guardian_info.backup-20251028-205856.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251025_093847.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251025_095407.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251025_095621.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251025_100333.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251025_145222.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251025_161719.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251028_213203.xlsx
+¦   ¦   ¦       ward_guardian_info20251028.xlsx
+¦   ¦   ¦       ward_guardian_info_backup_before_formatting.xlsx
+¦   ¦   ¦       ward_guardian_info_cursor_great202510209p.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251027_214419.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251027_215600.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251027_220507.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251027_221915.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_083030.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_083534.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_083938.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_085535.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_090555.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_091705.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_092345.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_093040.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_103818.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_105232.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_111741.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_112257.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_112830.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_114840.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_115850.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_120107.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_120928.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_125405.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_132455.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_135157.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_141030.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_141605.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_143957.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_144614.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_150725.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_151653.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_151859.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_153259.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_153839.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_170023.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_172101.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_181206.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_182339.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_183246.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_183900.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_184338.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_190849.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251028_192706.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_085734.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_091308.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_094722.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_095945.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_100644.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_101211.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_102638.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_105322.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_110054.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_190611.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_200138.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_212930.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_215346.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_220235.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_221708.xlsx
+¦   ¦   ¦       ward_guardian_info__backup_20251029_223703.xlsx
+¦   ¦   ¦       
+¦   ¦   +---OCR Script Backup
+¦   ¦           email_cvr_to_supervisor_BACKUP_20251028.py
+¦   ¦           google_sheets_cvr_integration_fixed_BACKUP_20251028.py
+¦   ¦           google_sheets_cvr_integration_fixed_BROKEN_20251028.py
+¦   ¦           guardianship_extractorclaude20251020.py
+¦   ¦           guardian_extractor1.py
+¦   ¦           guardian_extractor_BACKUP_20251028.py
+¦   ¦           guardian_extractor_BACKUP_20251028_085054.py
+¦   ¦           guardian_extractor_BACKUP_20251028_090043.py
+¦   ¦           guardian_extractor_BACKUP_20251028_091408.py
+¦   ¦           guardian_extractor_BACKUP_20251028_095602.py
+¦   ¦           guardian_extractor_BACKUP_20251028_114348.py
+¦   ¦           guardian_extractor_BACKUP_20251028_120433.py
+¦   ¦           guardian_extractor_BACKUP_20251028_130310.py
+¦   ¦           guardian_extractor_BACKUP_20251028_134211_BEFORE_REVERT.py
+¦   ¦           guardian_extractor_BACKUP_20251028_wtele_fix.py
+¦   ¦           guardian_extractor_BACKUP_BEFORE_3TIER_MATCHING_$(date +%Y%m%d_%H%M%S).py
+¦   ¦           guardian_extractor_BACKUP_BEFORE_DOCAI_FIXES.py
+¦   ¦           guardian_extractor_BACKUP_WORKING_20251028_135500.py
+¦   ¦           guardian_extractor_bestYet_test.py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm.py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm_BACKUP_20251029_173047 (2).py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm_BACKUP_20251029_173047.py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm_BACKUP_BEFORE_CLEAN_REWRITE.py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm_BROKEN.py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm_ORIGINAL.py
+¦   ¦           guardian_extractor_claudecode20251023_bestever_11pm_STEP2_BACKUP_20251029_192702.py
+¦   ¦           guardian_extractor_cursor20251021_12p (2).py
+¦   ¦           guardian_extractor_cursor20251021_12p.py
+¦   ¦           guardian_extractor_FRESH_TEST.py
+¦   ¦           guardian_extractor_WITH_DATEARPFILED_FIX_20251028_143000.py
+¦   ¦           guardian_extractor_WORKING_EXCELLENT_20251028_142200.py
+¦   ¦           
+¦   +---Inbox
+¦   +---Logs
+¦   ¦       brener_document_ai_output.txt
+¦   ¦       document_ai_output.txt
+¦   ¦       extraction_log.txt
+¦   ¦       hall_document_ai_output.txt
+¦   ¦       hall_vision_output.txt
+¦   ¦       test_output.txt
+¦   ¦       
+¦   +---Output
+¦   ¦   ¦   Ward_Map_Sheet.docx
+¦   ¦   ¦   
+¦   ¦   +---Mileage Logs
+¦   ¦   ¦       10_2025 Volunteer CV Mileage Reimbursement Form.xlsx
+¦   ¦   ¦       
+¦   ¦   +---Payment Forms
+¦   ¦           10_1Oct2025 Court Visitor Payment.docx
+¦   ¦           10_2Oct2025 Court Visitor Payment.docx
+¦   ¦           
+¦   +---runs
+¦   ¦       meeting_email_log_2025-10-24_204038.csv
+¦   ¦       meeting_email_log_2025-10-24_204753.csv
+¦   ¦       meeting_email_log_2025-10-24_205919.csv
+¦   ¦       meeting_email_log_2025-10-25_171450.csv
+¦   ¦       meeting_email_log_2025-10-28_204049.csv
+¦   ¦       meeting_email_log_2025-10-30_094719.csv
+¦   ¦       meeting_email_log_2025-10-30_111506.csv
+¦   ¦       meeting_email_log_2025-10-30_144329.csv
+¦   ¦       meeting_email_log_2025-10-30_145304.csv
+¦   ¦       
+¦   +---Staging
+¦   +---Templates
+¦   +---Test Data
+¦           ARP1.pdf
+¦           order.pdf
+¦           
++---Automation
+¦   +---Appt Email Confirm
+¦   ¦   +---Logs
+¦   ¦   ¦       appt_confirm.log
+¦   ¦   ¦       
+¦   ¦   +---scripts
+¦   ¦       ¦   send_confirmation_email all.bat
+¦   ¦       ¦   send_confirmation_email.py
+¦   ¦       ¦   send_confirmation_email_BACKUP_20251028.py
+¦   ¦       ¦   send_confirmation_email_option.bat
+¦   ¦       ¦   
+¦   ¦       +---__pycache__
+¦   ¦               send_confirmation_email.cpython-314.pyc
+¦   ¦               
+¦   +---Build Map Sheet
+¦   ¦   ¦   Print Ward Map Sheet Only.bat
+¦   ¦   ¦   Run Ward Map Sheet.bat
+¦   ¦   ¦   Run Ward Map Sheetold.bat
+¦   ¦   ¦   Ward_Map_Sheet.docx
+¦   ¦   ¦   
+¦   ¦   +---Scripts
+¦   ¦           build_map_sheet.py
+¦   ¦           build_map_sheet_BACKUP.py
+¦   ¦           
+¦   +---Calendar appt send email conf
+¦   ¦   +---Logs
+¦   ¦   ¦       appt_confirm.log
+¦   ¦   ¦       
+¦   ¦   +---scripts
+¦   ¦   ¦   ¦   create_calendar_event.py
+¦   ¦   ¦   ¦   create_calendar_event_BACKUP_20251028.py
+¦   ¦   ¦   ¦   run create_calendar_event.bat
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---__pycache__
+¦   ¦   ¦           create_calendar_event.cpython-313.pyc
+¦   ¦   ¦           
+¦   ¦   +---Sent Confirmations
+¦   +---Contacts - Guardians
+¦   ¦   ¦   hello_test.bat
+¦   ¦   ¦   
+¦   ¦   +---Logs
+¦   ¦   ¦       contacts.log
+¦   ¦   ¦       
+¦   ¦   +---scripts
+¦   ¦       ¦   add_guardians_to_contacts.py
+¦   ¦       ¦   add_guardians_to_contacts_BACKUP_20251028.py
+¦   ¦       ¦   contacts_menu.bat
+¦   ¦       ¦   
+¦   ¦       +---__pycache__
+¦   ¦               add_guardians_to_contacts.cpython-314.pyc
+¦   ¦               
+¦   +---Court Visitor Summary
+¦   ¦       22-002744_Zarola_Aidan_.docx
+¦   ¦       build_court_visitor_summary.py
+¦   ¦       Run_Summary.bat
+¦   ¦       Run_Summary_Print.bat
+¦   ¦       
+¦   +---Create CV report_move to folder
+¦   ¦   +---Backup
+¦   ¦   ¦       ward_guardian_info.backup_20251002_163655.xlsx
+¦   ¦   ¦       ward_guardian_info.backup_20251002_171332.xlsx
+¦   ¦   ¦       
+¦   ¦   +---logs
+¦   ¦   +---Output
+¦   ¦   +---Scripts
+¦   ¦   ¦   ¦   build_cvr_from_excel_cc.py
+¦   ¦   ¦   ¦   build_cvr_from_excel_cc_working.py
+¦   ¦   ¦   ¦   build_cvr_from_excel_cc_working_BACKUP_20251028.py
+¦   ¦   ¦   ¦   Run Court Visitor Builder.bat
+¦   ¦   ¦   ¦   Run CVR (Real).bat
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---__pycache__
+¦   ¦   ¦           build_cvr_from_excel_cc_working.cpython-314.pyc
+¦   ¦   ¦           
+¦   ¦   +---Staging
+¦   ¦   +---Templates
+¦   ¦           Court Visitor Report fillable new.docx
+¦   ¦           ~$urt Visitor Report fillable new.docx
+¦   ¦           
+¦   +---CV Payment Form Script
+¦   ¦   +---archive
+¦   ¦   +---data
+¦   ¦   +---debug_texts
+¦   ¦   +---logs
+¦   ¦   +---output
+¦   ¦   ¦       10_1Oct2025 Court Visitor Payment.docx
+¦   ¦   ¦       9_1Sept2025 Court Visitor Payment.docx
+¦   ¦   ¦       9_2Sept2025 Court Visitor Payment.docx
+¦   ¦   ¦       
+¦   ¦   +---scripts
+¦   ¦   ¦   ¦   build_payment_forms.py
+¦   ¦   ¦   ¦   build_payment_forms_sdt.py
+¦   ¦   ¦   ¦   build_payment_forms_sdt_v6.py
+¦   ¦   ¦   ¦   build_payment_forms_v3.py
+¦   ¦   ¦   ¦   build_payment_forms_v4.py
+¦   ¦   ¦   ¦   build_payment_forms_v5.py
+¦   ¦   ¦   ¦   Run payment Forms.bat
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---__pycache__
+¦   ¦   ¦           build_payment_forms_sdt.cpython-313.pyc
+¦   ¦   ¦           
+¦   ¦   +---templates
+¦   +---CV Report_Folders Script
+¦   ¦   +---archive
+¦   ¦   +---data
+¦   ¦   +---debug_texts
+¦   ¦   +---logs
+¦   ¦   +---output
+¦   ¦   +---scripts
+¦   ¦   ¦       cvr_folder_builder.py
+¦   ¦   ¦       
+¦   ¦   +---templates
+¦   +---Email Meeting Request
+¦   ¦   ¦   send_guardian_emails.py
+¦   ¦   ¦   
+¦   ¦   +---scripts
+¦   ¦           Send Meeting Emails (Confirm).bat
+¦   ¦           send_guardian_emails.py
+¦   ¦           
+¦   +---FormBuilderTest
+¦   ¦   ¦   form_builder_test.py
+¦   ¦   ¦   LauncherButton.ahk
+¦   ¦   ¦   map of current directory.docx
+¦   ¦   ¦   
+¦   ¦   +---data
+¦   ¦   ¦       field_map_template (1).csv
+¦   ¦   ¦       field_map_template.csv
+¦   ¦   ¦       field_registry_guardian.json
+¦   ¦   ¦       Fillable_Annual_Report_of_the_Person-_Updated_05.2025_map.csv
+¦   ¦   ¦       Test_data.xlsx
+¦   ¦   ¦       
+¦   ¦   +---field_map.cvs
+¦   ¦   +---forms
+¦   ¦   ¦       Court Visitor Report fillable new.docx
+¦   ¦   ¦       Fillable_Annual_Report_of_the_Person-_Updated_05.2025.pdf
+¦   ¦   ¦       Guardianship_General_Information_Form_10.1.2023.pdf
+¦   ¦   ¦       
+¦   ¦   +---output
+¦   ¦           row1__Court Visitor Report fillable new.docx
+¦   ¦           row1__Court Visitor Report fillable new.pdf
+¦   ¦           row1__Fillable_Annual_Report_of_the_Person-_Updated_05.2025.pdf
+¦   ¦           run_log.csv
+¦   ¦           
+¦   +---GuardianAutomation
+¦   ¦   +---archive
+¦   ¦   +---debug_texts
+¦   ¦   +---logs
+¦   ¦   ¦       menu_launcher.log
+¦   ¦   ¦       
+¦   ¦   +---output
+¦   ¦   +---playwright_profile
+¦   ¦   ¦   ¦   first_party_sets.db
+¦   ¦   ¦   ¦   first_party_sets.db-journal
+¦   ¦   ¦   ¦   Last Browser
+¦   ¦   ¦   ¦   Last Version
+¦   ¦   ¦   ¦   Local State
+¦   ¦   ¦   ¦   Variations
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---component_crx_cache
+¦   ¦   ¦   ¦       metadata.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Crashpad
+¦   ¦   ¦   ¦   ¦   settings.dat
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---attachments
+¦   ¦   ¦   ¦   +---reports
+¦   ¦   ¦   +---Default
+¦   ¦   ¦   ¦   ¦   Account Web Data
+¦   ¦   ¦   ¦   ¦   Account Web Data-journal
+¦   ¦   ¦   ¦   ¦   Affiliation Database
+¦   ¦   ¦   ¦   ¦   Affiliation Database-journal
+¦   ¦   ¦   ¦   ¦   BookmarkMergedSurfaceOrdering
+¦   ¦   ¦   ¦   ¦   BrowsingTopicsSiteData
+¦   ¦   ¦   ¦   ¦   BrowsingTopicsSiteData-journal
+¦   ¦   ¦   ¦   ¦   BrowsingTopicsState
+¦   ¦   ¦   ¦   ¦   DIPS
+¦   ¦   ¦   ¦   ¦   Favicons
+¦   ¦   ¦   ¦   ¦   Favicons-journal
+¦   ¦   ¦   ¦   ¦   heavy_ad_intervention_opt_out.db
+¦   ¦   ¦   ¦   ¦   heavy_ad_intervention_opt_out.db-journal
+¦   ¦   ¦   ¦   ¦   History
+¦   ¦   ¦   ¦   ¦   History-journal
+¦   ¦   ¦   ¦   ¦   LOCK
+¦   ¦   ¦   ¦   ¦   LOG
+¦   ¦   ¦   ¦   ¦   Login Data
+¦   ¦   ¦   ¦   ¦   Login Data For Account
+¦   ¦   ¦   ¦   ¦   Login Data For Account-journal
+¦   ¦   ¦   ¦   ¦   Login Data-journal
+¦   ¦   ¦   ¦   ¦   MediaDeviceSalts
+¦   ¦   ¦   ¦   ¦   MediaDeviceSalts-journal
+¦   ¦   ¦   ¦   ¦   Network Action Predictor
+¦   ¦   ¦   ¦   ¦   Network Action Predictor-journal
+¦   ¦   ¦   ¦   ¦   Preferences
+¦   ¦   ¦   ¦   ¦   PreferredApps
+¦   ¦   ¦   ¦   ¦   README
+¦   ¦   ¦   ¦   ¦   Secure Preferences
+¦   ¦   ¦   ¦   ¦   ServerCertificate
+¦   ¦   ¦   ¦   ¦   ServerCertificate-journal
+¦   ¦   ¦   ¦   ¦   SharedStorage
+¦   ¦   ¦   ¦   ¦   Shortcuts
+¦   ¦   ¦   ¦   ¦   Shortcuts-journal
+¦   ¦   ¦   ¦   ¦   Top Sites
+¦   ¦   ¦   ¦   ¦   Top Sites-journal
+¦   ¦   ¦   ¦   ¦   trusted_vault.pb
+¦   ¦   ¦   ¦   ¦   Web Data
+¦   ¦   ¦   ¦   ¦   Web Data-journal
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---AutofillStrikeDatabase
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---blob_storage
+¦   ¦   ¦   ¦   ¦   +---9af011a6-2ad7-40ed-8fa9-afc1db6aa352
+¦   ¦   ¦   ¦   +---BudgetDatabase
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Cache
+¦   ¦   ¦   ¦   ¦   +---Cache_Data
+¦   ¦   ¦   ¦   ¦   ¦       data_0
+¦   ¦   ¦   ¦   ¦   ¦       data_1
+¦   ¦   ¦   ¦   ¦   ¦       data_2
+¦   ¦   ¦   ¦   ¦   ¦       data_3
+¦   ¦   ¦   ¦   ¦   ¦       f_000001
+¦   ¦   ¦   ¦   ¦   ¦       f_000002
+¦   ¦   ¦   ¦   ¦   ¦       f_000003
+¦   ¦   ¦   ¦   ¦   ¦       f_000004
+¦   ¦   ¦   ¦   ¦   ¦       f_000005
+¦   ¦   ¦   ¦   ¦   ¦       f_000006
+¦   ¦   ¦   ¦   ¦   ¦       f_000007
+¦   ¦   ¦   ¦   ¦   ¦       f_000008
+¦   ¦   ¦   ¦   ¦   ¦       f_000009
+¦   ¦   ¦   ¦   ¦   ¦       f_00000a
+¦   ¦   ¦   ¦   ¦   ¦       f_00000b
+¦   ¦   ¦   ¦   ¦   ¦       f_00000c
+¦   ¦   ¦   ¦   ¦   ¦       f_00000d
+¦   ¦   ¦   ¦   ¦   ¦       f_00000e
+¦   ¦   ¦   ¦   ¦   ¦       f_00000f
+¦   ¦   ¦   ¦   ¦   ¦       index
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---No_Vary_Search
+¦   ¦   ¦   ¦   +---chrome_cart_db
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---ClientCertificates
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Code Cache
+¦   ¦   ¦   ¦   ¦   +---js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   079879116b2139df_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   0cdde4b24d153d36_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   0dc09c2e19f50c86_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   12f6930727a13c89_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   15c4d6aa4bd6097f_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   1858c7a10d8783ab_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   27ea6c097c0e1cc6_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   2ab1f33993eb8561_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   32cc2e5c8054df38_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   362849c6b8443240_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   41be7a69cfaf34f7_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   454fdaccbe8eb242_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   698ca9b754a795fe_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   8bd2c344820cacc3_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   98e2c8b003d59d9f_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   a12a1c026a014f65_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   a3bffffbff86270d_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   a80d7b0f4b774486_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   b822f6052c6c131d_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ba8d1511846f0bc9_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   c3762a80d49b5abe_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ce128ecd795065f8_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   d7c745e041f48be6_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   dc7784875384b35d_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   e60bf0f7c80621fa_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ee53381aa7303ebc_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   efba820d32c9d401_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   f791b0468ffc7736_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   fb31ec4be14c68d0_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   fc8cac5693e8a6ff_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   fd9b6754a3ab9f85_0
+¦   ¦   ¦   ¦   ¦   ¦   ¦   index
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---index-dir
+¦   ¦   ¦   ¦   ¦   ¦           the-real-index
+¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   +---wasm
+¦   ¦   ¦   ¦   ¦       ¦   index
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---index-dir
+¦   ¦   ¦   ¦   ¦               the-real-index
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---commerce_subscription_db
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---DawnGraphiteCache
+¦   ¦   ¦   ¦   ¦       data_0
+¦   ¦   ¦   ¦   ¦       data_1
+¦   ¦   ¦   ¦   ¦       data_2
+¦   ¦   ¦   ¦   ¦       data_3
+¦   ¦   ¦   ¦   ¦       index
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---DawnWebGPUCache
+¦   ¦   ¦   ¦   ¦       data_0
+¦   ¦   ¦   ¦   ¦       data_1
+¦   ¦   ¦   ¦   ¦       data_2
+¦   ¦   ¦   ¦   ¦       data_3
+¦   ¦   ¦   ¦   ¦       index
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---discounts_db
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---discount_infos_db
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Download Service
+¦   ¦   ¦   ¦   ¦   +---EntryDB
+¦   ¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---Files
+¦   ¦   ¦   ¦   +---Extension Rules
+¦   ¦   ¦   ¦   ¦       000003.log
+¦   ¦   ¦   ¦   ¦       CURRENT
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       MANIFEST-000001
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Extension Scripts
+¦   ¦   ¦   ¦   ¦       000003.log
+¦   ¦   ¦   ¦   ¦       CURRENT
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       MANIFEST-000001
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Extension State
+¦   ¦   ¦   ¦   ¦       000003.log
+¦   ¦   ¦   ¦   ¦       CURRENT
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       MANIFEST-000001
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Feature Engagement Tracker
+¦   ¦   ¦   ¦   ¦   +---AvailabilityDB
+¦   ¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---EventDB
+¦   ¦   ¦   ¦   ¦           LOCK
+¦   ¦   ¦   ¦   ¦           LOG
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---GCM Store
+¦   ¦   ¦   ¦   ¦   ¦   000003.log
+¦   ¦   ¦   ¦   ¦   ¦   CURRENT
+¦   ¦   ¦   ¦   ¦   ¦   LOCK
+¦   ¦   ¦   ¦   ¦   ¦   LOG
+¦   ¦   ¦   ¦   ¦   ¦   MANIFEST-000001
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---Encryption
+¦   ¦   ¦   ¦   ¦           000003.log
+¦   ¦   ¦   ¦   ¦           CURRENT
+¦   ¦   ¦   ¦   ¦           LOCK
+¦   ¦   ¦   ¦   ¦           LOG
+¦   ¦   ¦   ¦   ¦           MANIFEST-000001
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---GPUCache
+¦   ¦   ¦   ¦   ¦       data_0
+¦   ¦   ¦   ¦   ¦       data_1
+¦   ¦   ¦   ¦   ¦       data_2
+¦   ¦   ¦   ¦   ¦       data_3
+¦   ¦   ¦   ¦   ¦       index
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Local Storage
+¦   ¦   ¦   ¦   ¦   +---leveldb
+¦   ¦   ¦   ¦   ¦           000003.log
+¦   ¦   ¦   ¦   ¦           CURRENT
+¦   ¦   ¦   ¦   ¦           LOCK
+¦   ¦   ¦   ¦   ¦           LOG
+¦   ¦   ¦   ¦   ¦           MANIFEST-000001
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---Network
+¦   ¦   ¦   ¦   ¦       Cookies
+¦   ¦   ¦   ¦   ¦       Cookies-journal
+¦   ¦   ¦   ¦   ¦       Network Persistent State
+¦   ¦   ¦   ¦   ¦       NetworkDataMigrated
+¦   ¦   ¦   ¦   ¦       Reporting and NEL
+¦   ¦   ¦   ¦   ¦       Reporting and NEL-journal
+¦   ¦   ¦   ¦   ¦       SCT Auditing Pending Reports
+¦   ¦   ¦   ¦   ¦       TransportSecurity
+¦   ¦   ¦   ¦   ¦       Trust Tokens
+¦   ¦   ¦   ¦   ¦       Trust Tokens-journal
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---optimization_guide_hint_cache_store
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---parcel_tracking_db
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---PersistentOriginTrials
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Safe Browsing Network
+¦   ¦   ¦   ¦   ¦       NetworkDataMigrated
+¦   ¦   ¦   ¦   ¦       Safe Browsing Cookies
+¦   ¦   ¦   ¦   ¦       Safe Browsing Cookies-journal
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Segmentation Platform
+¦   ¦   ¦   ¦   ¦   +---SegmentInfoDB
+¦   ¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---SignalDB
+¦   ¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---SignalStorageConfigDB
+¦   ¦   ¦   ¦   ¦           LOCK
+¦   ¦   ¦   ¦   ¦           LOG
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---Service Worker
+¦   ¦   ¦   ¦   ¦   +---Database
+¦   ¦   ¦   ¦   ¦   ¦       000003.log
+¦   ¦   ¦   ¦   ¦   ¦       CURRENT
+¦   ¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦   ¦       MANIFEST-000001
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---ScriptCache
+¦   ¦   ¦   ¦   ¦       ¦   2cc80dabc69f58b6_0
+¦   ¦   ¦   ¦   ¦       ¦   2cc80dabc69f58b6_1
+¦   ¦   ¦   ¦   ¦       ¦   index
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---index-dir
+¦   ¦   ¦   ¦   ¦               the-real-index
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---Session Storage
+¦   ¦   ¦   ¦   ¦       000003.log
+¦   ¦   ¦   ¦   ¦       CURRENT
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       MANIFEST-000001
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Sessions
+¦   ¦   ¦   ¦   ¦       Session_13403854412302431
+¦   ¦   ¦   ¦   ¦       Tabs_13403854473157061
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Shared Dictionary
+¦   ¦   ¦   ¦   ¦   ¦   db
+¦   ¦   ¦   ¦   ¦   ¦   db-journal
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---cache
+¦   ¦   ¦   ¦   ¦       ¦   index
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---index-dir
+¦   ¦   ¦   ¦   ¦               the-real-index
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---shared_proto_db
+¦   ¦   ¦   ¦   ¦   ¦   000003.log
+¦   ¦   ¦   ¦   ¦   ¦   CURRENT
+¦   ¦   ¦   ¦   ¦   ¦   LOCK
+¦   ¦   ¦   ¦   ¦   ¦   LOG
+¦   ¦   ¦   ¦   ¦   ¦   MANIFEST-000001
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---metadata
+¦   ¦   ¦   ¦   ¦           000003.log
+¦   ¦   ¦   ¦   ¦           CURRENT
+¦   ¦   ¦   ¦   ¦           LOCK
+¦   ¦   ¦   ¦   ¦           LOG
+¦   ¦   ¦   ¦   ¦           MANIFEST-000001
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---Site Characteristics Database
+¦   ¦   ¦   ¦   ¦       000003.log
+¦   ¦   ¦   ¦   ¦       CURRENT
+¦   ¦   ¦   ¦   ¦       LOCK
+¦   ¦   ¦   ¦   ¦       LOG
+¦   ¦   ¦   ¦   ¦       MANIFEST-000001
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Sync Data
+¦   ¦   ¦   ¦   ¦   +---LevelDB
+¦   ¦   ¦   ¦   ¦           000003.log
+¦   ¦   ¦   ¦   ¦           CURRENT
+¦   ¦   ¦   ¦   ¦           LOCK
+¦   ¦   ¦   ¦   ¦           LOG
+¦   ¦   ¦   ¦   ¦           MANIFEST-000001
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---WebStorage
+¦   ¦   ¦   ¦           QuotaManager
+¦   ¦   ¦   ¦           QuotaManager-journal
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---extensions_crx_cache
+¦   ¦   ¦   ¦       metadata.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---GraphiteDawnCache
+¦   ¦   ¦   ¦       data_0
+¦   ¦   ¦   ¦       data_1
+¦   ¦   ¦   ¦       data_2
+¦   ¦   ¦   ¦       data_3
+¦   ¦   ¦   ¦       index
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---GrShaderCache
+¦   ¦   ¦   ¦       data_0
+¦   ¦   ¦   ¦       data_1
+¦   ¦   ¦   ¦       data_2
+¦   ¦   ¦   ¦       data_3
+¦   ¦   ¦   ¦       f_000001
+¦   ¦   ¦   ¦       f_000002
+¦   ¦   ¦   ¦       f_000003
+¦   ¦   ¦   ¦       f_000004
+¦   ¦   ¦   ¦       index
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Safe Browsing
+¦   ¦   ¦   +---segmentation_platform
+¦   ¦   ¦   ¦       ukm_db
+¦   ¦   ¦   ¦       ukm_db-wal
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---ShaderCache
+¦   ¦   ¦           data_0
+¦   ¦   ¦           data_1
+¦   ¦   ¦           data_2
+¦   ¦   ¦           data_3
+¦   ¦   ¦           index
+¦   ¦   ¦           
+¦   ¦   +---scripts
+¦   ¦   ¦       docstrange_cloud_pull.py
+¦   ¦   ¦       docstrange_cloud_schema_pull.py
+¦   ¦   ¦       docstrange_extract.py
+¦   ¦   ¦       docstrange_hardened_pull.py
+¦   ¦   ¦       docstrange_quick_onepage.py
+¦   ¦   ¦       docstrange_quick_pages.py
+¦   ¦   ¦       docstrange_single_test.py
+¦   ¦   ¦       docstrange_web_pull.py
+¦   ¦   ¦       run_docstrange.cmd
+¦   ¦   ¦       
+¦   ¦   +---templates
+¦   +---GuardianComms
+¦   ¦   ¦   Clients.xlsx
+¦   ¦   ¦   comm_module.py
+¦   ¦   ¦   history_comm.bat
+¦   ¦   ¦   init_comm.bat
+¦   ¦   ¦   preview_comm.bat
+¦   ¦   ¦   README_GuardianComms.txt
+¦   ¦   ¦   send_comm.bat
+¦   ¦   ¦   simple_reminder.html
+¦   ¦   ¦   
+¦   ¦   +---Emails
+¦   ¦       +---previews
+¦   ¦       +---sent
+¦   ¦       +---templates
+¦   ¦               simple_reminder.html
+¦   ¦               
+¦   +---Menu
+¦   ¦       cvp_menu.py
+¦   ¦       launch_stdout_stderr.txt
+¦   ¦       Run CVP Control Panel.bat
+¦   ¦       
+¦   +---Mileage Reimbursement Script
+¦   ¦   +---archive
+¦   ¦   +---debug_texts
+¦   ¦   +---logs
+¦   ¦   +---output
+¦   ¦   +---scripts
+¦   ¦   ¦       build_mileage_forms.py
+¦   ¦   ¦       run_mileage_forms.py
+¦   ¦   ¦       
+¦   ¦   +---templates
+¦   +---TX email to guardian
+¦           followup_17-000201_Roberts_Jay.eml
+¦           Send Followups (Live).bat
+¦           send_followups_picker.py
+¦           
++---Completed
+¦   +---Cox, Ty Gideon - 15-000428
+¦   ¦       APPROVAL4 - approval_4.pdf
+¦   ¦       ARP3 - ARP3.pdf
+¦   ¦       ARP4 - ARP_4.pdf
+¦   ¦       Cox, Ty, 15-000428 Court Visitor Report (2).docx
+¦   ¦       Cox, Ty, 15-000428 Court Visitor Report.docx
+¦   ¦       ORDER3 - ORDER3.pdf
+¦   ¦       ORDER4 - order_4.pdf
+¦   ¦       
+¦   +---Dennis, Abigail Grace - 17-000729
+¦   ¦       Confirmation Email - Dennis, Abigail - 2025-10-30.txt
+¦   ¦       Dennis, Abigail, 17-000729 Court Visitor Report.docx
+¦   ¦       Meeting Email - Dennis, Abigail - 2025-10-30.txt
+¦   ¦       ORDER3 - order3.pdf
+¦   ¦       
+¦   +---Eudv, Kimberly Grace - 06-084450
+¦   ¦   ¦   ARP8 - ARP8.pdf
+¦   ¦   ¦   Confirmation Email - Eudv, Kimberly - 2025-10-30.txt
+¦   ¦   ¦   Eudv, Kimberly, 06-084450 Court Visitor Report.docx
+¦   ¦   ¦   Meeting Email - Eudv, Kimberly - 2025-10-30.txt
+¦   ¦   ¦   ORDER8 - Order8.pdf
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Halford, Jon Tyler - 22-001301
+¦   ¦   ¦   ARP - ARP.pdf
+¦   ¦   ¦   Confirmation Email - Halford, Jon - 2025-10-30.txt
+¦   ¦   ¦   Halford, Jon, 22-001301 Court Visitor Report.docx
+¦   ¦   ¦   Meeting Email - Halford, Jon - 2025-10-30.txt
+¦   ¦   ¦   ORDER - order.pdf
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Huerta, Gabriela Esperanza - 19-002069
+¦   ¦       APPROVAL7 - approval_7.pdf
+¦   ¦       ARP7 - ARP7.pdf
+¦   ¦       ARP7 - ARP_7.pdf
+¦   ¦       Huerta, Gabriela, 19-002069 Court Visitor Report (2).docx
+¦   ¦       Huerta, Gabriela, 19-002069 Court Visitor Report.docx
+¦   ¦       ORDER7 - ORDER7.pdf
+¦   ¦       ORDER7 - order_7.pdf
+¦   ¦       
+¦   +---Jones, Andrew Colton - 20-001710
+¦   ¦       ARP4 - ARP_4.pdf
+¦   ¦       Jones, Andrew, 20-001710 Court Visitor Report.docx
+¦   ¦       ORDER4 - Order_4.pdf
+¦   ¦       
+¦   +---Mosonye, Mason Todd - 21-000066
+¦   ¦   ¦   ARP4 - ARP4 (1).pdf
+¦   ¦   ¦   ARP4 - ARP4.pdf
+¦   ¦   ¦   Confirmation Email - Mosonye, Mason - 2025-10-30.txt
+¦   ¦   ¦   Meeting Email - Mosonye, Mason - 2025-10-30.txt
+¦   ¦   ¦   Mosonye, Mason, 21-000066 Court Visitor Report.docx
+¦   ¦   ¦   ORDER4 - Order4.pdf
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Park, Mina Grunleitner - 18-001798
+¦   ¦       ARP2 - ARP_2.pdf
+¦   ¦       ARP_2 (2).pdf
+¦   ¦       ORDER2 - Order_2.pdf
+¦   ¦       Order_22 - Order_2 (2).pdf
+¦   ¦       Park, Mina, 18-001798 Court Visitor Report (2).docx
+¦   ¦       Park, Mina, 18-001798 Court Visitor Report.docx
+¦   ¦       
+¦   +---Roberts, Jay Daniel - 17-000201
+¦   ¦   ¦   ARP5 - ARP_5.pdf
+¦   ¦   ¦   Confirmation Email - Roberts, Jay - 2025-10-30.txt
+¦   ¦   ¦   Followup Email - Roberts, Jay - 2025-10-30.txt
+¦   ¦   ¦   Meeting Email - Roberts, Jay - 2025-10-30.txt
+¦   ¦   ¦   ORDER5 - order_5.pdf
+¦   ¦   ¦   Roberts, Jay, 17-000201 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Taylor, Ryan Matthew - 22-000706
+¦   ¦   ¦   ARP6 - ARP_6.pdf
+¦   ¦   ¦   Confirmation Email - Taylor, Ryan - 2025-10-30.txt
+¦   ¦   ¦   Followup Email - Taylor, Ryan - 2025-10-30.txt
+¦   ¦   ¦   Meeting Email - Taylor, Ryan - 2025-10-30.txt
+¦   ¦   ¦   ORDER6 - order_6.pdf
+¦   ¦   ¦   Taylor, Ryan, 22-000706 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Toney, Emma Jane - 18-000194
+¦   ¦       APPROVAL6 - approval_6.pdf
+¦   ¦       ARP6 - ARP_6 (1).pdf
+¦   ¦       ARP6 - ARP_6.pdf
+¦   ¦       ORDER6 - order_6 (1).pdf
+¦   ¦       ORDER6 - order_6.pdf
+¦   ¦       Toney, Emma, 18-000194 Court Visitor Report (2).docx
+¦   ¦       Toney, Emma, 18-000194 Court Visitor Report.docx
+¦   ¦       
+¦   +---Wagner, Carter John - 21-001411
+¦   ¦       ARP2 - ARP (2).pdf
+¦   ¦       Confirmation Email - Wagner, Carter - 2025-10-30.txt
+¦   ¦       Meeting Email - Wagner, Carter - 2025-10-30.txt
+¦   ¦       order2 - order (2).pdf
+¦   ¦       Wagner, Carter, 21-001411 Court Visitor Report.docx
+¦   ¦       
+¦   +---Warren, David Patrick - 23-000357
+¦       ¦   ARP7 - ARP_7.pdf
+¦       ¦   Confirmation Email - Warren, David - 2025-10-30.txt
+¦       ¦   Followup Email - Warren, David - 2025-10-30.txt
+¦       ¦   Meeting Email - Warren, David - 2025-10-30.txt
+¦       ¦   ORDER7 - order_7.pdf
+¦       ¦   Warren, David, 23-000357 Court Visitor Report.docx
+¦       ¦   
+¦       +---Correspondence
++---Config
+¦   ¦   cvr_google_form_mapping.json
+¦   ¦   email_config.json
+¦   ¦   README.md
+¦   ¦   
+¦   +---API
+¦   ¦       client_secret_calendar.json
+¦   ¦       gmail_oauth_client.json
+¦   ¦       gmail_token.json
+¦   ¦       Google Document AI API ID c49799eec.txt
+¦   ¦       google_service_account.json
+¦   ¦       token_calendar.json
+¦   ¦       token_drive.json
+¦   ¦       token_gmail.json
+¦   ¦       token_people.json
+¦   ¦       
+¦   +---Keys
+¦           google_maps_api_key.txt
+¦           
++---Documentation
+¦       AUTO_FILE_CORRESPONDENCE_GUIDE.md
+¦       Control_Names_Verification.docx
+¦       Court_Visitor_App_Manual.pdf
+¦       Court_Visitor_App_Manual_merged_v2.docx
+¦       Court_Visitor_App_Manual_merged_v3.docx
+¦       Court_Visitor_App_Manual_merged_v5.docx
+¦       Court_Visitor_App_Manual_with_S3_Steps10_11.docx
+¦       Court_Visitor_Program_User_Manual_Beta_FUL20251009L.docx
+¦       Court_Visitor_Program_User_Manual_Beta_FUL20251009L2.docx
+¦       CVR_CONTROL_NAMING_INSTRUCTIONS.md
+¦       CVR_Field_Analysis.docx
+¦       DOCUMENT_AI_IMPLEMENTATION_SUMMARY.md
+¦       DOCUMENT_AI_QUICK_START.md
+¦       DOCUMENT_AI_SETUP_GUIDE.md
+¦       EXCEL_PROTECTION_AUDIT.md
+¦       FINAL_STATUS_20251028.md
+¦       FOLDER_STRUCTURE_AND_WORKFLOW.md
+¦       GETTING_STARTED.md
+¦       GOOGLE_MAPS_SETUP.md
+¦       RELEASE_CHECKLIST.md
+¦       SCRIPT_ERROR_HANDLING_AUDIT.md
+¦       SESSION_SUMMARY_20251028.md
+¦       START_HERE.txt
+¦       STEP_10_SETUP_GUIDE.md
+¦       TEST_RESULTS_20251028.md
+¦       Unnamed_Controls_List.docx
+¦       
++---New Clients
+¦   +---Brener, Benjamin - 06-085777
+¦   ¦   ¦   APPROVAL1 - approval_1.pdf
+¦   ¦   ¦   ARP1 - ARP_1 (1).pdf
+¦   ¦   ¦   ARP1 - ARP_1.pdf
+¦   ¦   ¦   Brener, Benjamin, 06-085777 Court Visitor Report (2).docx
+¦   ¦   ¦   Brener, Benjamin, 06-085777 Court Visitor Report.docx
+¦   ¦   ¦   ORDER1 - order_1 (1).pdf
+¦   ¦   ¦   ORDER1 - order_1.pdf
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Hall, Alexandra - 08-088136
+¦   ¦   ¦   ARP5 - ARP5.pdf
+¦   ¦   ¦   Hall, Alexandra, 08-088136 Court Visitor Report.docx
+¦   ¦   ¦   ORDER5 - order5.pdf
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Luna, Oscar - 05-082942
+¦   ¦   ¦   APPROVAL - approval.pdf
+¦   ¦   ¦   ARP - ARP.pdf
+¦   ¦   ¦   Luna, Oscar, 05-082942 Court Visitor Report.docx
+¦   ¦   ¦   ORDER - order.pdf
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   ¦   +---Reich, Quinn Leboeuf - 14-000172
+¦   ¦           APPROVAL3 - approval_3.pdf
+¦   ¦           ARP3 - ARP_3.pdf
+¦   ¦           ORDER3 - order_3.pdf
+¦   ¦           Reich, Quinn, 14-000172 Court Visitor Report.docx
+¦   ¦           
+¦   +---Potter, Mark - 09-001594
+¦   ¦   ¦   APPROVAL2 - approval_2.pdf
+¦   ¦   ¦   ARP2 - ARP_2.pdf
+¦   ¦   ¦   ORDER2 - order_2.pdf
+¦   ¦   ¦   Potter, Mark, 09-001594 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Roberts, Jay Daniel - 17-000201
+¦   ¦   ¦   ARP5 - ARP_5.pdf
+¦   ¦   ¦   Confirmation Email - Roberts, Jay - 2025-10-30.txt
+¦   ¦   ¦   Followup Email - Roberts, Jay - 2025-10-30.txt
+¦   ¦   ¦   Meeting Email - Roberts, Jay - 2025-10-30.txt
+¦   ¦   ¦   ORDER5 - order_5.pdf
+¦   ¦   ¦   Roberts, Jay, 17-000201 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Taylor, Ryan Matthew - 22-000706
+¦   ¦   ¦   ARP6 - ARP_6.pdf
+¦   ¦   ¦   Confirmation Email - Taylor, Ryan - 2025-10-30.txt
+¦   ¦   ¦   Followup Email - Taylor, Ryan - 2025-10-30.txt
+¦   ¦   ¦   Meeting Email - Taylor, Ryan - 2025-10-30.txt
+¦   ¦   ¦   ORDER6 - order_6.pdf
+¦   ¦   ¦   Taylor, Ryan, 22-000706 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Turnbaugh, Elizabeth - 00-074302
+¦   ¦       ARP (2).pdf
+¦   ¦       order2 - order (2).pdf
+¦   ¦       Turnbaugh, Elizabeth, 00-074302 Court Visitor Report.docx
+¦   ¦       
+¦   +---Warren, David Patrick - 23-000357
+¦   ¦   ¦   ARP7 - ARP_7.pdf
+¦   ¦   ¦   Confirmation Email - Warren, David - 2025-10-30.txt
+¦   ¦   ¦   Followup Email - Warren, David - 2025-10-30.txt
+¦   ¦   ¦   Meeting Email - Warren, David - 2025-10-30.txt
+¦   ¦   ¦   ORDER7 - order_7.pdf
+¦   ¦   ¦   Warren, David, 23-000357 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---Ximenez, Jose - 99-071988
+¦   ¦   ¦   APPROVAL8 - approval_8.pdf
+¦   ¦   ¦   ARP_8.pdf
+¦   ¦   ¦   ORDER8 - order_8.pdf
+¦   ¦   ¦   Ximenez, Jose, 99-071988 Court Visitor Report.docx
+¦   ¦   ¦   
+¦   ¦   +---Correspondence
+¦   +---_logs
+¦   ¦       cvr_folder_builder_20251028_202650.log
+¦   ¦       cvr_folder_builder_20251030_090659.log
+¦   ¦       cvr_folder_builder_20251030_090813.log
+¦   ¦       
+¦   +---_Unmatched
+¦           ARP3.pdf
+¦           ARP4.pdf
+¦           
++---New Files
+¦   +---_Unmatched
++---Scripts
+¦   ¦   analyze_cvr_fields.py
+¦   ¦   analyze_cvr_template.py
+¦   ¦   auto_name_controls.py
+¦   ¦   check_extraction_results.py
+¦   ¦   clear_sheet1_rows.py
+¦   ¦   cvr_content_control_utils.py
+¦   ¦   cvr_content_control_utils_BACKUP_20251028.py
+¦   ¦   cvr_folder_builder_BACKUP_20251028.py
+¦   ¦   cvr_folder_builder_BACKUP_20251028_122420.py
+¦   ¦   debug_toney_guardian_section.py
+¦   ¦   diagnose_step10.py
+¦   ¦   fix_all_script_paths.py
+¦   ¦   fix_control_name_typos.py
+¦   ¦   format_excel_file.py
+¦   ¦   google_sheets_cvr_autofill.py
+¦   ¦   list_unnamed_controls.py
+¦   ¦   show_missing_controls.py
+¦   ¦   test_brener_ocr.py
+¦   ¦   test_document_ai_output.py
+¦   ¦   test_guardian2_extraction.py
+¦   ¦   test_hall_ocr.py
+¦   ¦   test_step10_setup.py
+¦   ¦   test_toney_only.py
+¦   ¦   unprotect_cvr_template.py
+¦   ¦   verify_control_names.py
+¦   ¦   
+¦   +---__pycache__
+¦           cvr_content_control_utils.cpython-314.pyc
+¦           
++---Templates
+¦       Court Visitor Report fillable new.docx
+¦       Court_Visitor_Payment_Invoice.docx
+¦       Mileage_Reimbursement_Form.xlsx
+¦       
++---Visit Summary Forms
+¦       14-000172_Reich_Quinn_10-30-2025.docx
+¦       15-000428_Cox_Ty_10-31-2025.docx
+¦       18-000194_Toney_Emma_11-02-2025.docx
+¦       18-000194_Toney_Emma_11-05-2025.docx
+¦       19-002069_Huerta_Gabriela_11-03-2025.docx
+¦       20-001710_Jones_Andrew_11-04-2025.docx
+¦       99-071988_Ximenez_Jose_11-04-2025.docx
+¦       Unknown___11-05-2025.docx
+¦       
++---_Correspondence_Pending
+¦       Confirmation Email - Cagle, Sara - 2025-10-31.txt
+¦       Confirmation Email - Jimmerson, Abby - 2025-10-31.txt
+¦       Confirmation Email - Mogonye, Mason - 2025-10-31.txt
+¦       Confirmation Email - Wolk, James - 2025-10-31.txt
+¦       Confirmation Email - Zarola, Aidan - 2025-10-31.txt
+¦       Meeting Email - Brener, Benjamin - 2025-10-24.txt
+¦       Meeting Email - Brener, Benjamin - 2025-10-25.txt
+¦       Meeting Email - Brener, Benjamin - 2025-10-28.txt
+¦       Meeting Email - Cox, Ty - 2025-10-24.txt
+¦       Meeting Email - Cox, Ty - 2025-10-25.txt
+¦       Meeting Email - Cox, Ty - 2025-10-28.txt
+¦       Meeting Email - Dennis, Abigail - 2025-10-30.txt
+¦       Meeting Email - Eudv, Kimberly - 2025-10-30.txt
+¦       Meeting Email - Halford, Jon - 2025-10-30.txt
+¦       Meeting Email - Hall, Alexandra - 2025-10-28.txt
+¦       Meeting Email - Huerta, Gabriela - 2025-10-24.txt
+¦       Meeting Email - Huerta, Gabriela - 2025-10-25.txt
+¦       Meeting Email - Huerta, Gabriela - 2025-10-28.txt
+¦       Meeting Email - Jones, Andrew - 2025-10-28.txt
+¦       Meeting Email - Luna, Oscar - 2025-10-24.txt
+¦       Meeting Email - Luna, Oscar - 2025-10-25.txt
+¦       Meeting Email - Mosonye, Mason - 2025-10-30.txt
+¦       Meeting Email - Park, Mina - 2025-10-24.txt
+¦       Meeting Email - Park, Mina - 2025-10-25.txt
+¦       Meeting Email - Park, Mina - 2025-10-28.txt
+¦       Meeting Email - Potter, Mark - 2025-10-24.txt
+¦       Meeting Email - Potter, Mark - 2025-10-25.txt
+¦       Meeting Email - Reich, Quinn - 2025-10-24.txt
+¦       Meeting Email - Reich, Quinn - 2025-10-25.txt
+¦       Meeting Email - Roberts, Jay - 2025-10-24.txt
+¦       Meeting Email - Roberts, Jay - 2025-10-25.txt
+¦       Meeting Email - Roberts, Jay - 2025-10-30.txt
+¦       Meeting Email - Taylor, Ryan - 2025-10-30.txt
+¦       Meeting Email - Toney, Emma - 2025-10-24.txt
+¦       Meeting Email - Toney, Emma - 2025-10-25.txt
+¦       Meeting Email - Toney, Emma - 2025-10-28.txt
+¦       Meeting Email - Turnbaugh, Elizabeth - 2025-10-24.txt
+¦       Meeting Email - Turnbaugh, Elizabeth - 2025-10-25.txt
+¦       Meeting Email - Wagner, Carter - 2025-10-30.txt
+¦       Meeting Email - Warren, David - 2025-10-30.txt
+¦       Meeting Email - Ximenez, Jose - 2025-10-24.txt
+¦       Meeting Email - Ximenez, Jose - 2025-10-25.txt
+¦       
++---_Unmatched Emails
+¦       Meeting Email - Dennis, Abigail - 2025-10-30.txt
+¦       Meeting Email - Eudv, Kimberly - 2025-10-30.txt
+¦       Meeting Email - Halford, Jon - 2025-10-30.txt
+¦       Meeting Email - Mosonye, Mason - 2025-10-30.txt
+¦       Meeting Email - Roberts, Jay - 2025-10-30.txt
+¦       Meeting Email - Taylor, Ryan - 2025-10-30.txt
+¦       Meeting Email - Wagner, Carter - 2025-10-30.txt
+¦       Meeting Email - Warren, David - 2025-10-30.txt
+¦       
++---__pycache__
+        court_visitor_chatbot.cpython-314.pyc
+        email_cvr_to_supervisor.cpython-314.pyc
+        google_sheets_cvr_integration_fixed.cpython-314.pyc
+        guardianship_app.cpython-314.pyc
+        guardian_extractor_claudecode20251023_bestever_11pm.cpython-314.pyc
+        

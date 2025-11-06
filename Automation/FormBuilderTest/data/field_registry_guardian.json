@@ -1,0 +1,154 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-10-10T02:17:50.551581Z",
+  "canonical_fields": {
+    "ward_last_name": [
+      "wardlast",
+      "ward_last",
+      "last_name"
+    ],
+    "ward_middle_name": [
+      "ward_middle_name",
+      "ward_mid",
+      "middle_name",
+      "ward_mi"
+    ],
+    "ward_first_name": [
+      "wardfirst",
+      "ward_first",
+      "first_name"
+    ],
+    "cause_number": [
+      "causeno",
+      "cause_no",
+      "cause_number"
+    ],
+    "visit_date": [
+      "visitdate",
+      "visit_dt",
+      "date_of_visit"
+    ],
+    "visit_time": [
+      "visittime",
+      "visit_tm"
+    ],
+    "ward_phone": [
+      "wtele",
+      "ward_tel",
+      "ward_phone"
+    ],
+    "living_arrangement": [
+      "liveswith",
+      "living_with",
+      "resides_with"
+    ],
+    "ward_address": [
+      "waddress",
+      "ward_addr",
+      "address"
+    ],
+    "ward_dob": [
+      "wdob",
+      "ward_birthdate",
+      "dob"
+    ],
+    "guardian1_name": [
+      "guardian1",
+      "g1_name",
+      "guardian_primary"
+    ],
+    "guardian1_address": [
+      "gaddress",
+      "g1_address",
+      "guardian1_addr"
+    ],
+    "guardian1_email": [
+      "gemail",
+      "g1_email"
+    ],
+    "guardian1_phone": [
+      "gtele",
+      "g1_phone"
+    ],
+    "guardian1_relationship": [
+      "Relationship",
+      "g1_relationship"
+    ],
+    "guardian1_dob": [
+      "gdob",
+      "g1_dob"
+    ],
+    "guardian2_name": [
+      "Guardian2",
+      "g2_name",
+      "guardian_secondary"
+    ],
+    "guardian2_address": [
+      "g2address",
+      "guardian2_addr"
+    ],
+    "guardian2_email": [
+      "g2email"
+    ],
+    "guardian2_phone": [
+      "g2tele"
+    ],
+    "guardian2_relationship": [
+      "g2Relationship"
+    ],
+    "guardian2_dob": [
+      "g2dob"
+    ],
+    "date_submitted": [
+      "datesubmited"
+    ],
+    "date_appointed": [
+      "Dateappointed"
+    ],
+    "miles": [
+      "miles_traveled",
+      "distance_miles"
+    ],
+    "expenses_submitted": [
+      "expensesubmited"
+    ],
+    "expenses_paid": [
+      "expenspd"
+    ],
+    "date_arp_filed": [
+      "DateARPfiled"
+    ],
+    "last_updated": [
+      "last_updated"
+    ],
+    "comments": [
+      "Comments"
+    ],
+    "ward_full_name": [
+      "ward_full_name",
+      "wardname_full"
+    ],
+    "ward_city": [
+      "ward_city"
+    ],
+    "ward_state": [
+      "ward_state"
+    ],
+    "ward_zip": [
+      "ward_zip"
+    ],
+    "facility_name": [
+      "facility",
+      "facility_name"
+    ],
+    "income_source": [
+      "income_source"
+    ],
+    "income_annual_amount": [
+      "income_annual_amount"
+    ],
+    "allowance_from_estate_amount": [
+      "allowance_from_estate_amount"
+    ]
+  }
+}

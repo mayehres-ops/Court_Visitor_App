@@ -1,0 +1,377 @@
+=== COURT VISITOR APP - COMPLETE TECHNICAL REFERENCE ===
+Last Updated: October 2024
+
+This document contains ALL information needed to provide technical support for the Court Visitor App.
+
+=== OVERVIEW ===
+The Court Visitor App is a desktop application that automates the 14-step workflow for Court Visitors.
+It uses Python, Tkinter for the GUI, Google Vision API for OCR, and various automation scripts.
+
+=== APP ARCHITECTURE ===
+- Main App: guardianship_app.py (Python/Tkinter GUI)
+- Base Directory: C:\GoogleSync\GuardianShip_Easy_App\
+- App Directory: C:\GoogleSync\GuardianShip_Easy_App\GuardianShip_App\
+- Automation Scripts: C:\GoogleSync\GuardianShip_Easy_App\Automation\
+- Excel Database: C:\GoogleSync\GuardianShip_Easy_App\App Data\ward_guardian_info.xlsx
+- PDF Input: C:\GoogleSync\GuardianShip_Easy_App\New Files\
+
+=== 14-STEP WORKFLOW ===
+
+STEP 1: Process New Cases
+- Script: guardian_extractor_claudecode20251023_bestever_11pm.py
+- Purpose: Extract data from ORDER.pdf and ARP.pdf files using OCR
+- Input: PDF files in "New Files" folder
+- Output: Updates Excel database with ward/guardian information
+- Requirements: Google Vision API credentials (JSON key file)
+- Common Issues:
+  * "No PDF files found" - Check files are in New Files folder
+  * "Google Vision API error" - Check JSON key file is installed
+  * "OCR not reading text" - PDF may be scanned image, check quality
+
+STEP 2: Organize Case Files
+- Script: Automation/Create CV report_move to folder/Scripts/build_cvr_from_excel_cc_working.py
+- Purpose: Creates folder structure for each case
+
+STEP 3: Generate Route Map
+- Script: Automation/Build Map Sheet/Scripts/build_map_sheet.py
+- Purpose: Creates map showing ward locations for visit planning
+
+STEP 4: Send Meeting Requests
+- Script: Automation/Email Meeting Request/scripts/send_guardian_emails.py
+- Purpose: Sends initial meeting request emails to guardians
+- Requirements: Valid guardian email addresses in Excel
+
+STEP 5: Add Contacts
+- Script: Automation/Contacts - Guardians/scripts/add_guardians_to_contacts.py
+- Purpose: Adds guardians and wards to Windows contacts
+
+STEP 6: Confirm Appointment
+- Script: Automation/Appt Email Confirm/scripts/send_confirmation_email.py
+- Purpose: Sends appointment confirmation emails
+
+STEP 7: Schedule Calendar
+- Script: Automation/Calendar appt send email conf/scripts/create_calendar_event.py
+- Purpose: Adds appointments to Google Calendar
+- Requirements: Google Calendar API credentials
+
+STEP 8: Generate CVR
+- Script: Automation/Create CV report_move to folder/Scripts/build_cvr_from_excel_cc_working.py
+- Purpose: Creates Court Visitor Report document templates
+
+STEP 9: Visit Summary
+- Script: Automation/Court Visitor Summary/build_court_visitor_summary.py
+- Purpose: Creates one-page visit summary sheets
+
+STEP 10: Complete CVR
+- Script: google_sheets_cvr_integration_fixed.py
+- Purpose: Fills CVR documents with data from Google Forms
+
+STEP 11: Send Follow-up
+- Script: Automation/TX email to guardian/send_followups_picker.py
+- Purpose: Sends follow-up emails to guardians
+
+STEP 12: Email CVR
+- Script: email_cvr_to_supervisor.py
+- Purpose: Emails completed CVR documents to supervisor
+
+STEP 13: Generate Payment Form
+- Script: Automation/CV Payment Form Script/scripts/build_payment_forms_sdt.py
+- Purpose: Generates monthly payment reimbursement forms
+
+STEP 14: Generate Mileage Log
+- Script: Automation/Mileage Reimbursement Script/scripts/build_mileage_forms.py
+- Purpose: Generates monthly mileage reimbursement logs
+
+=== GOOGLE VISION API SETUP ===
+
+REQUIREMENT: Google Vision API is REQUIRED for Step 1 (OCR functionality)
+
+5-STEP SETUP PROCESS:
+
+Step 1: Create Google Cloud Project
+1. Go to: https://console.cloud.google.com/
+2. Click "Select a Project" at the top
+3. Click "NEW PROJECT"
+4. Enter project name: "Court Visitor App"
+5. Click "CREATE"
+
+Step 2: Enable Vision API
+1. In your project, go to "APIs & Services" > "Library"
+2. Search for "Vision API"
+3. Click on "Cloud Vision API"
+4. Click "ENABLE"
+5. Wait for it to enable (takes a few seconds)
+
+Step 3: Create Service Account
+1. Go to "APIs & Services" > "Credentials"
+2. Click "CREATE CREDENTIALS" > "Service Account"
+3. Enter name: "court-visitor-app"
+4. Click "CREATE AND CONTINUE"
+5. For role, select: "Project" > "Editor"
+6. Click "CONTINUE" then "DONE"
+
+Step 4: Download JSON Key
+1. On the Credentials page, find your service account
+2. Click the email address (ends with @...iam.gserviceaccount.com)
+3. Go to "KEYS" tab
+4. Click "ADD KEY" > "Create new key"
+5. Choose "JSON" format
+6. Click "CREATE"
+7. A JSON file will download to your computer
+
+Step 5: Install JSON Key File
+1. The JSON key file MUST be named: court-visitor-vision-api.json
+2. Place it in: C:\GoogleSync\GuardianShip_Easy_App\
+3. The app's Setup Google Vision wizard has a browse button that does this automatically
+
+IMPORTANT NOTES:
+- Google Vision API is FREE for first 1,000 requests/month
+- Each PDF page = 1 request
+- Typical usage: 50-100 pages/month = FREE
+- JSON key is secret credential - keep secure
+- Do not share JSON key file
+- Do not commit to version control
+
+TROUBLESHOOTING GOOGLE VISION:
+- "Authentication error" = JSON key file not found or wrong location
+- "Permission denied" = Service account role not set to Editor
+- "API not enabled" = Vision API not enabled in Google Cloud Console
+- "Quota exceeded" = Used more than 1,000 requests (upgrade to paid)
+
+=== QUICK ACCESS SIDEBAR BUTTONS ===
+
+📊 Excel File
+- Opens: C:\GoogleSync\GuardianShip_Easy_App\App Data\ward_guardian_info.xlsx
+- Purpose: View/edit all extracted data
+- Issue: "File not found" = Run Step 1 first to create database
+
+📁 Guardian Folders
+- Opens: C:\GoogleSync\GuardianShip_Easy_App\Guardian Folders\
+- Purpose: Access all case folders and documents
+- Creates folder if doesn't exist
+
+🔧 Setup Google Vision
+- Opens: Step-by-step wizard for Google Vision API setup
+- Features: Direct links, browse button, status indicator
+- Required: BEFORE using Step 1
+
+🤖 AI Help Assistant
+- Opens: AI chatbot windows with app context
+- Options: Claude, ChatGPT, Gemini
+- Purpose: Real-time technical support
+
+👥 Contacts
+- Opens: Windows Contacts/People app
+- Fallback: Shows instructions if app not found
+
+📧 Email
+- Opens: Default email client
+- Fallback: Opens mailto: protocol
+
+❓ Help
+- Opens: Quick help dialog with common tasks
+- Shows: Troubleshooting, getting started, workflow
+
+📖 Manual
+- Opens: Court_Visitor_App_Manual.pdf
+- Fallback: Opens .docx or .md versions
+- Complete user documentation
+
+🐛 Report Bug
+- Opens: Bug report template window
+- Features: Copy to clipboard, open email
+- Sends to: guardianshipeasy@gmail.com
+
+💡 Request Feature
+- Opens: Feature request template window
+- Features: Copy to clipboard, open email
+- Sends to: guardianshipeasy@gmail.com
+
+=== COMMON ERRORS AND SOLUTIONS ===
+
+ERROR: "No PDF files found"
+CAUSE: No PDFs in New Files folder
+SOLUTION:
+1. Check folder: C:\GoogleSync\GuardianShip_Easy_App\New Files\
+2. Verify PDFs are actually there (not shortcuts)
+3. Ensure files are .pdf format (not .doc, .txt, etc.)
+
+ERROR: "Excel file not found"
+CAUSE: Database hasn't been created yet
+SOLUTION:
+1. Run Step 1 (Process PDFs) first
+2. This creates the Excel database
+3. Check: C:\GoogleSync\GuardianShip_Easy_App\App Data\ward_guardian_info.xlsx
+
+ERROR: "Google Vision API authentication failed"
+CAUSE: JSON key file not installed or wrong location
+SOLUTION:
+1. Click "Setup Google Vision" button
+2. Check status indicator at bottom
+3. If red, browse and install JSON key file
+4. Verify file is named: court-visitor-vision-api.json
+5. Verify location: C:\GoogleSync\GuardianShip_Easy_App\
+
+ERROR: "Script not found"
+CAUSE: Automation script missing or wrong path
+SOLUTION:
+1. Verify script exists at expected location
+2. Check Automation folder structure
+3. Re-download app if files missing
+
+ERROR: "Permission denied"
+CAUSE: File/folder permissions or file in use
+SOLUTION:
+1. Close Excel if database is open
+2. Run app as Administrator
+3. Check Windows file permissions
+
+ERROR: "Module not found" or "ImportError"
+CAUSE: Required Python package not installed
+SOLUTION:
+1. Install packages: pip install openpyxl pillow pdf2image google-cloud-vision
+2. Install Tesseract OCR if using local OCR
+3. Check Python version (3.8+ required)
+
+ERROR: "Email not sending"
+CAUSE: Email configuration or credentials
+SOLUTION:
+1. Verify email addresses in Excel are valid
+2. Check internet connection
+3. Check Google API credentials if using Gmail
+4. Verify SMTP settings if configured
+
+ERROR: "Calendar event not created"
+CAUSE: Google Calendar API not set up
+SOLUTION:
+1. Similar to Vision API, needs JSON credentials
+2. Enable Google Calendar API in Cloud Console
+3. Use same service account
+
+ERROR: "OCR not reading text correctly"
+CAUSE: Poor PDF quality, skewed images, or handwriting
+SOLUTION:
+1. Check PDF quality - should be clear, not blurry
+2. Google Vision works best with printed text
+3. Scanned documents should be straight (not angled)
+4. Handwritten text has lower accuracy
+5. Try re-scanning document at higher DPI (300+)
+
+ERROR: "Processing window stuck"
+CAUSE: Script running but not outputting
+SOLUTION:
+1. Wait - some scripts take time
+2. Check Task Manager for Python process
+3. If frozen >5 minutes, close window and restart
+4. Check script directly in command line for errors
+
+=== FILE LOCATIONS ===
+
+App Files:
+- Main App: C:\GoogleSync\GuardianShip_Easy_App\GuardianShip_App\guardianship_app.py
+- Launcher: C:\GoogleSync\GuardianShip_Easy_App\GuardianShip_App\launch_app.bat
+- Manual PDF: C:\GoogleSync\GuardianShip_Easy_App\GuardianShip_App\Court_Visitor_App_Manual.pdf
+
+Data Files:
+- Excel Database: C:\GoogleSync\GuardianShip_Easy_App\App Data\ward_guardian_info.xlsx
+- JSON Key: C:\GoogleSync\GuardianShip_Easy_App\court-visitor-vision-api.json
+- New PDFs: C:\GoogleSync\GuardianShip_Easy_App\New Files\
+- Case Folders: C:\GoogleSync\GuardianShip_Easy_App\Guardian Folders\
+
+Automation Scripts:
+- Base: C:\GoogleSync\GuardianShip_Easy_App\Automation\
+- Each step has its own subfolder with scripts
+
+=== SYSTEM REQUIREMENTS ===
+
+Software:
+- Windows 10/11
+- Python 3.8 or higher
+- Microsoft Excel (for opening database)
+- PDF Reader (for viewing PDFs)
+- Internet connection (for Google APIs)
+
+Python Packages:
+- tkinter (GUI - usually included with Python)
+- openpyxl (Excel operations)
+- pillow (Image processing)
+- pdf2image (PDF to image conversion)
+- google-cloud-vision (Google Vision API)
+- python-docx (Word document creation)
+
+Optional:
+- Tesseract OCR (local OCR fallback)
+- Microsoft Word (for editing manual)
+
+=== WORKFLOW TIPS ===
+
+Best Practices:
+1. Always run steps in order (1→2→3... →14)
+2. Check Excel after Step 1 for data accuracy
+3. Fix any errors in Excel before running other steps
+4. Clear New Files folder after processing
+5. Backup Excel database regularly
+6. Keep PDF quality high for better OCR
+7. Verify email addresses before sending emails
+
+Data Quality:
+- Review extracted data in Excel after Step 1
+- Common OCR errors: O vs 0, l vs 1, S vs 5
+- Check phone numbers are 10 digits
+- Verify email addresses have @ symbol
+- Ensure addresses are complete
+- Validate dates are reasonable
+
+Performance:
+- Process 1-5 PDFs at a time for best results
+- Large PDFs (>20 pages) take longer
+- Close other programs if processing slow
+- Watch Task Manager for memory usage
+
+=== SECURITY NOTES ===
+
+JSON Key File Security:
+- Contains credentials for Google Cloud account
+- Do not share with anyone
+- Do not commit to version control (Git, etc.)
+- Do not email or upload anywhere
+- If compromised, delete key and create new one
+- Keep backup in secure location
+
+Data Privacy:
+- Excel database contains personal information
+- Guardian Folders contain sensitive documents
+- Secure computer with password
+- Do not share files without permission
+- Comply with court data protection requirements
+
+=== SUPPORT CONTACT ===
+
+For bugs and feature requests:
+Email: guardianshipeasy@gmail.com
+
+Include in bug reports:
+- Which step was running
+- Error messages (copy from output window)
+- What you were trying to do
+- Steps to reproduce
+- Date/time
+
+Include in feature requests:
+- Feature description
+- Problem it solves
+- How you would use it
+- Priority level
+
+=== VERSION INFORMATION ===
+
+Court Visitor App v1.0
+- 14-step automated workflow
+- All automation scripts connected
+- Google Vision API integration
+- Built-in help and manual system
+- AI help assistant
+- Bug/feature reporting
+- Setup wizards
+
+Last Updated: October 2024

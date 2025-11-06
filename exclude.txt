@@ -1,0 +1,8 @@
+__pycache__
+.pyc
+.git
+.vscode
+.idea
+GuardianShip_App_Backups
+_TEST
+nul

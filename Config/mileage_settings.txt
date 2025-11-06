@@ -1,0 +1,5 @@
+# Mileage Log Address Settings
+# Line 1: Starting address (where you depart from each day)
+# Line 2: Ending address (where you return to each day)
+departure
+return

@@ -1,0 +1,143 @@
+{
+  "_matching_fields": {
+    "cause_number": "What is the cause number of this case? Please only provide the last 8 numbers like this: xx-xxxxxx",
+    "ward_first": "What is the first name of the person name under your care?",
+    "ward_last": "What is the last name of the person name under your care?",
+    "supplemented_by_first": "What is your first name?",
+    "note": "These fields are used to match form responses to CVR files."
+  },
+  "What is your first name?": {
+    "cvr_control": "supplemented_by",
+    "type": "text"
+  },
+  "Will you be present during the meeting?": {
+    "cvr_control": "guardian_present",
+    "type": "yesno"
+  },
+  "Do you live together?": {
+    "cvr_control": "livetogether",
+    "type": "yesno"
+  },
+  "Does he/she have their own bed?": {
+    "cvr_control": "ownbed",
+    "type": "yesno"
+  },
+  "Is hot water available?": {
+    "cvr_control": "hotwater",
+    "type": "yesno"
+  },
+  "Does the residence have air conditioning/heating": {
+    "cvr_control": "hvac",
+    "type": "yesno"
+  },
+  "Are most areas accessible to the person under your care?": {
+    "cvr_control": "accessible",
+    "type": "yesno"
+  },
+  "Does the individual have access to the following: (check all that apply)": {
+    "cvr_control": "access_items",
+    "type": "checkbox_list",
+    "mapping": {
+      "telephone": "access_phone",
+      "television": "access_tv",
+      "radio": "access_radio",
+      "computer": "access_computer"
+    }
+  },
+  "Does the person under your care live:": {
+    "cvr_control": "living_situation",
+    "type": "choice",
+    "mapping": {
+      "Own Home/Apartment?": "residence_own",
+      "Lives in your home with you": "residence_guardian",
+      "Lives in another relative's home?": "residence_relative",
+      "Nursing home/Assisted Living": "residence_nursing",
+      "Group Home": "residence_group",
+      "Hospital/Medical Facility": "residence_hospital",
+      "State School": "residence_state",
+      "Other:": "residence_other"
+    }
+  },
+  "If Ward resides in Other Relatives Home state the name and relationship": {
+    "cvr_control": "residence_other_name",
+    "type": "text"
+  },
+  "If in a facility, the name of the place the ward lives.": {
+    "cvr_control": "facility_name",
+    "type": "text"
+  },
+  "Does the person you care for participate in any of the following": {
+    "cvr_control": "activities",
+    "type": "checkbox_list",
+    "mapping": {
+      "School": "activities_school",
+      "Work": "activities_work",
+      "Day Care": "activities_daycare"
+    }
+  },
+  "Does the individual have any visitors?": {
+    "cvr_control": "has_visitors",
+    "type": "yesno"
+  },
+  "Does the individual exercise regularly?": {
+    "cvr_control": "exercise",
+    "type": "yesno"
+  },
+  "If the individual wants to go on trips, is transportation provided?": {
+    "cvr_control": "transportation",
+    "type": "yesno"
+  },
+  "Are fire extinguishers available?": {
+    "cvr_control": "fire_extinguisher",
+    "type": "yesno"
+  },
+  "Is the person under your care able to understand how to use a fire extinguisher?": {
+    "cvr_control": "understands_fire",
+    "type": "yesno"
+  },
+  "Does the individual know where the fire extinguisher is located?": {
+    "cvr_control": "knows_fire_location",
+    "type": "yesno"
+  },
+  "Is the person under your care safe in the home alone?": {
+    "cvr_control": "safe_alone",
+    "type": "yesno"
+  },
+  "Can the individual read:": {
+    "cvr_control": "can_read",
+    "type": "yesno"
+  },
+  "Can the individual write:": {
+    "cvr_control": "can_write",
+    "type": "yesno"
+  },
+  "Is the individual oriented in time and space?": {
+    "cvr_control": "oriented",
+    "type": "yesno"
+  },
+  "Is the individual supplied with reading materials?": {
+    "cvr_control": "reading_materials",
+    "type": "yesno"
+  },
+  "Is social interaction encouraged?": {
+    "cvr_control": "social",
+    "type": "yesno"
+  },
+  "Does the person in your care have any of the following?": {
+    "cvr_control": "physical_conditions",
+    "type": "checkbox_list",
+    "mapping": {
+      "Able to communicate using voice": "cond_voice",
+      "Comunicates with nonverbal gestures": "cond_gestures",
+      "In bed most/all of time": "cond_bed",
+      "Walk without assistence": "con_walk_woassist",
+      "Walk with assistence": "cond_walk_assist",
+      "Hearing impairment": "cond_hearing",
+      "Speech impairment": "cond_speech",
+      "Unwilling to speak": "cond_unwilling_speak",
+      "Unable to speak": "cond_unable_speak",
+      "Non-English speaking": "cond_nonenglish",
+      "Unresponsive (comatose)": "cond_unresponsive"
+    }
+  }
+}

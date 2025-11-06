@@ -1,0 +1,977 @@
+c:\GoogleSync\GuardianShip_App\AI_HELP_CONTEXT.txt
+c:\GoogleSync\GuardianShip_App\App Data
+c:\GoogleSync\GuardianShip_App\app_directory.txt
+c:\GoogleSync\GuardianShip_App\app_files.txt
+c:\GoogleSync\GuardianShip_App\Automation
+c:\GoogleSync\GuardianShip_App\Completed
+c:\GoogleSync\GuardianShip_App\Config
+c:\GoogleSync\GuardianShip_App\convert_readme_simple.py
+c:\GoogleSync\GuardianShip_App\convert_readme_to_pdf.py
+c:\GoogleSync\GuardianShip_App\Court_Visitor_App_Manual.pdf
+c:\GoogleSync\GuardianShip_App\Court_Visitor_App_Manual_Updated.md
+c:\GoogleSync\GuardianShip_App\court_visitor_chatbot.py
+c:\GoogleSync\GuardianShip_App\Create_Desktop_Shortcut.ps1
+c:\GoogleSync\GuardianShip_App\Create_Desktop_Shortcut.vbs
+c:\GoogleSync\GuardianShip_App\Documentation
+c:\GoogleSync\GuardianShip_App\DOCUMENT_AI_CONFIG_TEMPLATE.env
+c:\GoogleSync\GuardianShip_App\email_cvr_to_supervisor.py
+c:\GoogleSync\GuardianShip_App\extraction_debug.log
+c:\GoogleSync\GuardianShip_App\geocode_cache.csv
+c:\GoogleSync\GuardianShip_App\google_sheets_cvr_integration_fixed.py
+c:\GoogleSync\GuardianShip_App\guardianship_app.py
+c:\GoogleSync\GuardianShip_App\guardian_extractor_claudecode20251023_bestever_11pm.py
+c:\GoogleSync\GuardianShip_App\INSTALL_DEPENDENCIES.bat
+c:\GoogleSync\GuardianShip_App\Launch Court Visitor App.vbs
+c:\GoogleSync\GuardianShip_App\launch_app.bat
+c:\GoogleSync\GuardianShip_App\layout_mockup.html
+c:\GoogleSync\GuardianShip_App\MANUAL_UPDATE_CHECKLIST.txt
+c:\GoogleSync\GuardianShip_App\New Clients
+c:\GoogleSync\GuardianShip_App\New Files
+c:\GoogleSync\GuardianShip_App\nul
+c:\GoogleSync\GuardianShip_App\README.md
+c:\GoogleSync\GuardianShip_App\README_FIRST.docx
+c:\GoogleSync\GuardianShip_App\README_FIRST.md
+c:\GoogleSync\GuardianShip_App\README_FIRST.pdf
+c:\GoogleSync\GuardianShip_App\requirements.txt
+c:\GoogleSync\GuardianShip_App\Scripts
+c:\GoogleSync\GuardianShip_App\SET_GOOGLE_MAPS_KEY.bat
+c:\GoogleSync\GuardianShip_App\Templates
+c:\GoogleSync\GuardianShip_App\three_column_mockup.html
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms
+c:\GoogleSync\GuardianShip_App\Ward_Map_Sheet.docx
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails
+c:\GoogleSync\GuardianShip_App\__pycache__
+c:\GoogleSync\GuardianShip_App\App Data\Backup
+c:\GoogleSync\GuardianShip_App\App Data\chatbot_stats.json
+c:\GoogleSync\GuardianShip_App\App Data\Inbox
+c:\GoogleSync\GuardianShip_App\App Data\Logs
+c:\GoogleSync\GuardianShip_App\App Data\Output
+c:\GoogleSync\GuardianShip_App\App Data\runs
+c:\GoogleSync\GuardianShip_App\App Data\Staging
+c:\GoogleSync\GuardianShip_App\App Data\Templates
+c:\GoogleSync\GuardianShip_App\App Data\Test Data
+c:\GoogleSync\GuardianShip_App\App Data\ward_guardian_info.backup-20251030-150548.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\ward_guardian_info.backup-20251031-141747.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\ward_guardian_info.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\ward_guardian_info_current.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\ward_guardian_info__backup_20251030_090038.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\CVR_Folder_Builder_Backup
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup
+c:\GoogleSync\GuardianShip_App\App Data\Backup\ward_guardian_info.backup_20251030_152146.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\ward_guardian_info.backup_20251030_154854.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\CVR_Folder_Builder_Backup\cvr_folder_builder_automation_backup_20251030.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\CVR_Folder_Builder_Backup\cvr_folder_builder_from_Scripts_20251030.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup-20251025-175203.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup-20251025-180257.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup-20251028-205856.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251025_093847.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251025_095407.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251025_095621.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251025_100333.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251025_145222.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251025_161719.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info.backup_20251028_213203.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info20251028.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info_backup_before_formatting.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info_cursor_great202510209p.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251027_214419.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251027_215600.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251027_220507.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251027_221915.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_083030.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_083534.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_083938.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_085535.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_090555.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_091705.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_092345.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_093040.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_103818.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_105232.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_111741.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_112257.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_112830.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_114840.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_115850.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_120107.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_120928.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_125405.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_132455.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_135157.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_141030.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_141605.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_143957.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_144614.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_150725.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_151653.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_151859.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_153259.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_153839.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_170023.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_172101.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_181206.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_182339.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_183246.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_183900.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_184338.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_190849.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251028_192706.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_085734.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_091308.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_094722.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_095945.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_100644.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_101211.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_102638.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_105322.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_110054.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_190611.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_200138.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_212930.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_215346.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_220235.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_221708.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\Excel File Backups\ward_guardian_info__backup_20251029_223703.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\email_cvr_to_supervisor_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\google_sheets_cvr_integration_fixed_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\google_sheets_cvr_integration_fixed_BROKEN_20251028.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardianship_extractorclaude20251020.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor1.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_085054.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_090043.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_091408.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_095602.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_114348.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_120433.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_130310.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_134211_BEFORE_REVERT.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_20251028_wtele_fix.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_BEFORE_3TIER_MATCHING_$(date +%Y%m%d_%H%M%S).py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_BEFORE_DOCAI_FIXES.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_BACKUP_WORKING_20251028_135500.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_bestYet_test.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm_BACKUP_20251029_173047 (2).py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm_BACKUP_20251029_173047.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm_BACKUP_BEFORE_CLEAN_REWRITE.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm_BROKEN.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm_ORIGINAL.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_claudecode20251023_bestever_11pm_STEP2_BACKUP_20251029_192702.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_cursor20251021_12p (2).py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_cursor20251021_12p.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_FRESH_TEST.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_WITH_DATEARPFILED_FIX_20251028_143000.py
+c:\GoogleSync\GuardianShip_App\App Data\Backup\OCR Script Backup\guardian_extractor_WORKING_EXCELLENT_20251028_142200.py
+c:\GoogleSync\GuardianShip_App\App Data\Logs\brener_document_ai_output.txt
+c:\GoogleSync\GuardianShip_App\App Data\Logs\document_ai_output.txt
+c:\GoogleSync\GuardianShip_App\App Data\Logs\extraction_log.txt
+c:\GoogleSync\GuardianShip_App\App Data\Logs\hall_document_ai_output.txt
+c:\GoogleSync\GuardianShip_App\App Data\Logs\hall_vision_output.txt
+c:\GoogleSync\GuardianShip_App\App Data\Logs\test_output.txt
+c:\GoogleSync\GuardianShip_App\App Data\Output\Mileage Logs
+c:\GoogleSync\GuardianShip_App\App Data\Output\Payment Forms
+c:\GoogleSync\GuardianShip_App\App Data\Output\Ward_Map_Sheet.docx
+c:\GoogleSync\GuardianShip_App\App Data\Output\Mileage Logs\10_2025 Volunteer CV Mileage Reimbursement Form.xlsx
+c:\GoogleSync\GuardianShip_App\App Data\Output\Payment Forms\10_1Oct2025 Court Visitor Payment.docx
+c:\GoogleSync\GuardianShip_App\App Data\Output\Payment Forms\10_2Oct2025 Court Visitor Payment.docx
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-24_204038.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-24_204753.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-24_205919.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-25_171450.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-28_204049.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-30_094719.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-30_111506.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-30_144329.csv
+c:\GoogleSync\GuardianShip_App\App Data\runs\meeting_email_log_2025-10-30_145304.csv
+c:\GoogleSync\GuardianShip_App\App Data\Test Data\ARP1.pdf
+c:\GoogleSync\GuardianShip_App\App Data\Test Data\order.pdf
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians
+c:\GoogleSync\GuardianShip_App\Automation\Court Visitor Summary
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script
+c:\GoogleSync\GuardianShip_App\Automation\Email Meeting Request
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms
+c:\GoogleSync\GuardianShip_App\Automation\Menu
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script
+c:\GoogleSync\GuardianShip_App\Automation\TX email to guardian
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\Logs
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\Logs\appt_confirm.log
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts\send_confirmation_email all.bat
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts\send_confirmation_email.py
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts\send_confirmation_email_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts\send_confirmation_email_option.bat
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts\__pycache__
+c:\GoogleSync\GuardianShip_App\Automation\Appt Email Confirm\scripts\__pycache__\send_confirmation_email.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Print Ward Map Sheet Only.bat
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Run Ward Map Sheet.bat
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Run Ward Map Sheetold.bat
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Scripts
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Scripts\build_map_sheet.py
+c:\GoogleSync\GuardianShip_App\Automation\Build Map Sheet\Scripts\build_map_sheet_BACKUP.py
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\Logs
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\scripts
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\Sent Confirmations
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\Logs\appt_confirm.log
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\scripts\create_calendar_event.py
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\scripts\create_calendar_event_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\scripts\run create_calendar_event.bat
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\scripts\__pycache__
+c:\GoogleSync\GuardianShip_App\Automation\Calendar appt send email conf\scripts\__pycache__\create_calendar_event.cpython-313.pyc
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\hello_test.bat
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\Logs
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\scripts
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\Logs\contacts.log
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\scripts\add_guardians_to_contacts.py
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\scripts\add_guardians_to_contacts_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\scripts\contacts_menu.bat
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\scripts\__pycache__
+c:\GoogleSync\GuardianShip_App\Automation\Contacts - Guardians\scripts\__pycache__\add_guardians_to_contacts.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\Automation\Court Visitor Summary\22-002744_Zarola_Aidan_.docx
+c:\GoogleSync\GuardianShip_App\Automation\Court Visitor Summary\build_court_visitor_summary.py
+c:\GoogleSync\GuardianShip_App\Automation\Court Visitor Summary\Run_Summary.bat
+c:\GoogleSync\GuardianShip_App\Automation\Court Visitor Summary\Run_Summary_Print.bat
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Backup
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\logs
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Output
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Staging
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Templates
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Backup\ward_guardian_info.backup_20251002_163655.xlsx
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Backup\ward_guardian_info.backup_20251002_171332.xlsx
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\build_cvr_from_excel_cc.py
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\build_cvr_from_excel_cc_working.py
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\build_cvr_from_excel_cc_working_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\Run Court Visitor Builder.bat
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\Run CVR (Real).bat
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\__pycache__
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Scripts\__pycache__\build_cvr_from_excel_cc_working.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Templates\Court Visitor Report fillable new.docx
+c:\GoogleSync\GuardianShip_App\Automation\Create CV report_move to folder\Templates\~$urt Visitor Report fillable new.docx
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\archive
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\data
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\debug_texts
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\logs
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\output
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\templates
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\output\10_1Oct2025 Court Visitor Payment.docx
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\output\9_1Sept2025 Court Visitor Payment.docx
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\output\9_2Sept2025 Court Visitor Payment.docx
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\build_payment_forms.py
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\build_payment_forms_sdt.py
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\build_payment_forms_sdt_v6.py
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\build_payment_forms_v3.py
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\build_payment_forms_v4.py
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\build_payment_forms_v5.py
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\Run payment Forms.bat
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\__pycache__
+c:\GoogleSync\GuardianShip_App\Automation\CV Payment Form Script\scripts\__pycache__\build_payment_forms_sdt.cpython-313.pyc
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\archive
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\data
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\debug_texts
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\logs
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\output
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\scripts
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\templates
+c:\GoogleSync\GuardianShip_App\Automation\CV Report_Folders Script\scripts\cvr_folder_builder.py
+c:\GoogleSync\GuardianShip_App\Automation\Email Meeting Request\scripts
+c:\GoogleSync\GuardianShip_App\Automation\Email Meeting Request\send_guardian_emails.py
+c:\GoogleSync\GuardianShip_App\Automation\Email Meeting Request\scripts\Send Meeting Emails (Confirm).bat
+c:\GoogleSync\GuardianShip_App\Automation\Email Meeting Request\scripts\send_guardian_emails.py
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\data
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\field_map.cvs
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\forms
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\form_builder_test.py
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\LauncherButton.ahk
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\map of current directory.docx
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\output
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\data\field_map_template (1).csv
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\data\field_map_template.csv
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\data\field_registry_guardian.json
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\data\Fillable_Annual_Report_of_the_Person-_Updated_05.2025_map.csv
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\data\Test_data.xlsx
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\forms\Court Visitor Report fillable new.docx
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\forms\Fillable_Annual_Report_of_the_Person-_Updated_05.2025.pdf
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\forms\Guardianship_General_Information_Form_10.1.2023.pdf
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\output\row1__Court Visitor Report fillable new.docx
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\output\row1__Court Visitor Report fillable new.pdf
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\output\row1__Fillable_Annual_Report_of_the_Person-_Updated_05.2025.pdf
+c:\GoogleSync\GuardianShip_App\Automation\FormBuilderTest\output\run_log.csv
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\archive
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\debug_texts
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\logs
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\output
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\templates
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\logs\menu_launcher.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\component_crx_cache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Crashpad
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\extensions_crx_cache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\first_party_sets.db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\first_party_sets.db-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GraphiteDawnCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Last Browser
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Last Version
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Local State
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Safe Browsing
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\segmentation_platform
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\ShaderCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Variations
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\component_crx_cache\metadata.json
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Crashpad\attachments
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Crashpad\reports
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Crashpad\settings.dat
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Account Web Data
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Account Web Data-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Affiliation Database
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Affiliation Database-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\AutofillStrikeDatabase
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\blob_storage
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BookmarkMergedSurfaceOrdering
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BrowsingTopicsSiteData
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BrowsingTopicsSiteData-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BrowsingTopicsState
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BudgetDatabase
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\chrome_cart_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\ClientCertificates
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\commerce_subscription_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnGraphiteCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnWebGPUCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DIPS
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\discounts_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\discount_infos_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Download Service
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Rules
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Scripts
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension State
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Favicons
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Favicons-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GPUCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\heavy_ad_intervention_opt_out.db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\heavy_ad_intervention_opt_out.db-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\History
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\History-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Login Data
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Login Data For Account
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Login Data For Account-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Login Data-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\MediaDeviceSalts
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\MediaDeviceSalts-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network Action Predictor
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network Action Predictor-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\optimization_guide_hint_cache_store
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\parcel_tracking_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\PersistentOriginTrials
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Preferences
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\PreferredApps
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\README
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Safe Browsing Network
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Secure Preferences
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\ServerCertificate
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\ServerCertificate-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Session Storage
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sessions
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\SharedStorage
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shortcuts
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shortcuts-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Site Characteristics Database
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Top Sites
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Top Sites-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\trusted_vault.pb
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Web Data
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Web Data-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\WebStorage
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\AutofillStrikeDatabase\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\AutofillStrikeDatabase\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\blob_storage\9af011a6-2ad7-40ed-8fa9-afc1db6aa352
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BudgetDatabase\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\BudgetDatabase\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\No_Vary_Search
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000002
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000003
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000004
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000005
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000006
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000007
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000008
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_000009
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_00000a
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_00000b
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_00000c
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_00000d
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_00000e
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\f_00000f
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Cache\Cache_Data\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\chrome_cart_db\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\chrome_cart_db\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\ClientCertificates\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\ClientCertificates\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\wasm
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\079879116b2139df_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\0cdde4b24d153d36_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\0dc09c2e19f50c86_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\12f6930727a13c89_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\15c4d6aa4bd6097f_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\1858c7a10d8783ab_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\27ea6c097c0e1cc6_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\2ab1f33993eb8561_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\32cc2e5c8054df38_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\362849c6b8443240_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\41be7a69cfaf34f7_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\454fdaccbe8eb242_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\698ca9b754a795fe_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\8bd2c344820cacc3_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\98e2c8b003d59d9f_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\a12a1c026a014f65_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\a3bffffbff86270d_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\a80d7b0f4b774486_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\b822f6052c6c131d_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\ba8d1511846f0bc9_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\c3762a80d49b5abe_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\ce128ecd795065f8_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\d7c745e041f48be6_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\dc7784875384b35d_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\e60bf0f7c80621fa_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\ee53381aa7303ebc_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\efba820d32c9d401_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\f791b0468ffc7736_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\fb31ec4be14c68d0_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\fc8cac5693e8a6ff_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\fd9b6754a3ab9f85_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\index-dir
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\js\index-dir\the-real-index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\wasm\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\wasm\index-dir
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Code Cache\wasm\index-dir\the-real-index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\commerce_subscription_db\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\commerce_subscription_db\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnGraphiteCache\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnGraphiteCache\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnGraphiteCache\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnGraphiteCache\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnGraphiteCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnWebGPUCache\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnWebGPUCache\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnWebGPUCache\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnWebGPUCache\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\DawnWebGPUCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\discounts_db\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\discounts_db\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\discount_infos_db\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\discount_infos_db\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Download Service\EntryDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Download Service\Files
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Download Service\EntryDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Download Service\EntryDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Rules\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Rules\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Rules\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Rules\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Rules\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Scripts\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Scripts\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Scripts\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Scripts\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension Scripts\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension State\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension State\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension State\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension State\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Extension State\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker\AvailabilityDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker\EventDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker\AvailabilityDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker\EventDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Feature Engagement Tracker\EventDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\Encryption
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\Encryption\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\Encryption\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\Encryption\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\Encryption\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GCM Store\Encryption\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GPUCache\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GPUCache\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GPUCache\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GPUCache\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\GPUCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage\leveldb
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage\leveldb\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage\leveldb\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage\leveldb\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage\leveldb\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Local Storage\leveldb\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Cookies
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Cookies-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Network Persistent State
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\NetworkDataMigrated
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Reporting and NEL
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Reporting and NEL-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\SCT Auditing Pending Reports
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\TransportSecurity
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Trust Tokens
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Network\Trust Tokens-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\optimization_guide_hint_cache_store\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\optimization_guide_hint_cache_store\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\parcel_tracking_db\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\parcel_tracking_db\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\PersistentOriginTrials\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\PersistentOriginTrials\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Safe Browsing Network\NetworkDataMigrated
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Safe Browsing Network\Safe Browsing Cookies
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Safe Browsing Network\Safe Browsing Cookies-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SegmentInfoDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SignalDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SignalStorageConfigDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SegmentInfoDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SegmentInfoDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SignalDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SignalDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SignalStorageConfigDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\Database
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\ScriptCache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\Database\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\Database\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\Database\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\Database\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\Database\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\ScriptCache\2cc80dabc69f58b6_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\ScriptCache\2cc80dabc69f58b6_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\ScriptCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\ScriptCache\index-dir
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Service Worker\ScriptCache\index-dir\the-real-index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Session Storage\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Session Storage\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Session Storage\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Session Storage\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Session Storage\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sessions\Session_13403854412302431
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sessions\Tabs_13403854473157061
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary\cache
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary\db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary\db-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary\cache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary\cache\index-dir
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Shared Dictionary\cache\index-dir\the-real-index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\metadata
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\metadata\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\metadata\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\metadata\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\metadata\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\shared_proto_db\metadata\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Site Characteristics Database\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Site Characteristics Database\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Site Characteristics Database\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Site Characteristics Database\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Site Characteristics Database\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data\LevelDB
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data\LevelDB\000003.log
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data\LevelDB\CURRENT
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data\LevelDB\LOCK
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data\LevelDB\LOG
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\Sync Data\LevelDB\MANIFEST-000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\WebStorage\QuotaManager
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\Default\WebStorage\QuotaManager-journal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\extensions_crx_cache\metadata.json
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GraphiteDawnCache\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GraphiteDawnCache\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GraphiteDawnCache\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GraphiteDawnCache\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GraphiteDawnCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\f_000001
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\f_000002
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\f_000003
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\f_000004
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\GrShaderCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\segmentation_platform\ukm_db
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\segmentation_platform\ukm_db-wal
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\ShaderCache\data_0
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\ShaderCache\data_1
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\ShaderCache\data_2
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\ShaderCache\data_3
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\playwright_profile\ShaderCache\index
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_cloud_pull.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_cloud_schema_pull.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_extract.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_hardened_pull.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_quick_onepage.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_quick_pages.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_single_test.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\docstrange_web_pull.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianAutomation\scripts\run_docstrange.cmd
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\Clients.xlsx
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\comm_module.py
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\Emails
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\history_comm.bat
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\init_comm.bat
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\preview_comm.bat
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\README_GuardianComms.txt
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\send_comm.bat
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\simple_reminder.html
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\Emails\previews
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\Emails\sent
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\Emails\templates
+c:\GoogleSync\GuardianShip_App\Automation\GuardianComms\Emails\templates\simple_reminder.html
+c:\GoogleSync\GuardianShip_App\Automation\Menu\cvp_menu.py
+c:\GoogleSync\GuardianShip_App\Automation\Menu\launch_stdout_stderr.txt
+c:\GoogleSync\GuardianShip_App\Automation\Menu\Run CVP Control Panel.bat
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\archive
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\debug_texts
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\logs
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\output
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\scripts
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\templates
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\scripts\build_mileage_forms.py
+c:\GoogleSync\GuardianShip_App\Automation\Mileage Reimbursement Script\scripts\run_mileage_forms.py
+c:\GoogleSync\GuardianShip_App\Automation\TX email to guardian\followup_17-000201_Roberts_Jay.eml
+c:\GoogleSync\GuardianShip_App\Automation\TX email to guardian\Send Followups (Live).bat
+c:\GoogleSync\GuardianShip_App\Automation\TX email to guardian\send_followups_picker.py
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428
+c:\GoogleSync\GuardianShip_App\Completed\Dennis, Abigail Grace - 17-000729
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069
+c:\GoogleSync\GuardianShip_App\Completed\Jones, Andrew Colton - 20-001710
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194
+c:\GoogleSync\GuardianShip_App\Completed\Wagner, Carter John - 21-001411
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\APPROVAL4 - approval_4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\ARP3 - ARP3.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\ARP4 - ARP_4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\Cox, Ty, 15-000428 Court Visitor Report (2).docx
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\Cox, Ty, 15-000428 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\ORDER3 - ORDER3.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Cox, Ty Gideon - 15-000428\ORDER4 - order_4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Dennis, Abigail Grace - 17-000729\Confirmation Email - Dennis, Abigail - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Dennis, Abigail Grace - 17-000729\Dennis, Abigail, 17-000729 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Dennis, Abigail Grace - 17-000729\Meeting Email - Dennis, Abigail - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Dennis, Abigail Grace - 17-000729\ORDER3 - order3.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450\ARP8 - ARP8.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450\Confirmation Email - Eudv, Kimberly - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450\Correspondence
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450\Eudv, Kimberly, 06-084450 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450\Meeting Email - Eudv, Kimberly - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Eudv, Kimberly Grace - 06-084450\ORDER8 - Order8.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301\ARP - ARP.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301\Confirmation Email - Halford, Jon - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301\Correspondence
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301\Halford, Jon, 22-001301 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301\Meeting Email - Halford, Jon - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Halford, Jon Tyler - 22-001301\ORDER - order.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\APPROVAL7 - approval_7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\ARP7 - ARP7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\ARP7 - ARP_7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\Huerta, Gabriela, 19-002069 Court Visitor Report (2).docx
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\Huerta, Gabriela, 19-002069 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\ORDER7 - ORDER7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Huerta, Gabriela Esperanza - 19-002069\ORDER7 - order_7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Jones, Andrew Colton - 20-001710\ARP4 - ARP_4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Jones, Andrew Colton - 20-001710\Jones, Andrew, 20-001710 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Jones, Andrew Colton - 20-001710\ORDER4 - Order_4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\ARP4 - ARP4 (1).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\ARP4 - ARP4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\Confirmation Email - Mosonye, Mason - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\Correspondence
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\Meeting Email - Mosonye, Mason - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\Mosonye, Mason, 21-000066 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Mosonye, Mason Todd - 21-000066\ORDER4 - Order4.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798\ARP2 - ARP_2.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798\ARP_2 (2).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798\ORDER2 - Order_2.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798\Order_22 - Order_2 (2).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798\Park, Mina, 18-001798 Court Visitor Report (2).docx
+c:\GoogleSync\GuardianShip_App\Completed\Park, Mina Grunleitner - 18-001798\Park, Mina, 18-001798 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\ARP5 - ARP_5.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\Confirmation Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\Correspondence
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\Followup Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\Meeting Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\ORDER5 - order_5.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Roberts, Jay Daniel - 17-000201\Roberts, Jay, 17-000201 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\ARP6 - ARP_6.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\Confirmation Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\Correspondence
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\Followup Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\Meeting Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\ORDER6 - order_6.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Taylor, Ryan Matthew - 22-000706\Taylor, Ryan, 22-000706 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\APPROVAL6 - approval_6.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\ARP6 - ARP_6 (1).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\ARP6 - ARP_6.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\ORDER6 - order_6 (1).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\ORDER6 - order_6.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\Toney, Emma, 18-000194 Court Visitor Report (2).docx
+c:\GoogleSync\GuardianShip_App\Completed\Toney, Emma Jane - 18-000194\Toney, Emma, 18-000194 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Wagner, Carter John - 21-001411\ARP2 - ARP (2).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Wagner, Carter John - 21-001411\Confirmation Email - Wagner, Carter - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Wagner, Carter John - 21-001411\Meeting Email - Wagner, Carter - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Wagner, Carter John - 21-001411\order2 - order (2).pdf
+c:\GoogleSync\GuardianShip_App\Completed\Wagner, Carter John - 21-001411\Wagner, Carter, 21-001411 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\ARP7 - ARP_7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\Confirmation Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\Correspondence
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\Followup Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\Meeting Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\ORDER7 - order_7.pdf
+c:\GoogleSync\GuardianShip_App\Completed\Warren, David Patrick - 23-000357\Warren, David, 23-000357 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\Config\API
+c:\GoogleSync\GuardianShip_App\Config\cvr_google_form_mapping.json
+c:\GoogleSync\GuardianShip_App\Config\email_config.json
+c:\GoogleSync\GuardianShip_App\Config\Keys
+c:\GoogleSync\GuardianShip_App\Config\README.md
+c:\GoogleSync\GuardianShip_App\Config\API\client_secret_calendar.json
+c:\GoogleSync\GuardianShip_App\Config\API\gmail_oauth_client.json
+c:\GoogleSync\GuardianShip_App\Config\API\gmail_token.json
+c:\GoogleSync\GuardianShip_App\Config\API\Google Document AI API ID c49799eec.txt
+c:\GoogleSync\GuardianShip_App\Config\API\google_service_account.json
+c:\GoogleSync\GuardianShip_App\Config\API\token_calendar.json
+c:\GoogleSync\GuardianShip_App\Config\API\token_drive.json
+c:\GoogleSync\GuardianShip_App\Config\API\token_gmail.json
+c:\GoogleSync\GuardianShip_App\Config\API\token_people.json
+c:\GoogleSync\GuardianShip_App\Config\Keys\google_maps_api_key.txt
+c:\GoogleSync\GuardianShip_App\Documentation\AUTO_FILE_CORRESPONDENCE_GUIDE.md
+c:\GoogleSync\GuardianShip_App\Documentation\Control_Names_Verification.docx
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_App_Manual.pdf
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_App_Manual_merged_v2.docx
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_App_Manual_merged_v3.docx
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_App_Manual_merged_v5.docx
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_App_Manual_with_S3_Steps10_11.docx
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_Program_User_Manual_Beta_FUL20251009L.docx
+c:\GoogleSync\GuardianShip_App\Documentation\Court_Visitor_Program_User_Manual_Beta_FUL20251009L2.docx
+c:\GoogleSync\GuardianShip_App\Documentation\CVR_CONTROL_NAMING_INSTRUCTIONS.md
+c:\GoogleSync\GuardianShip_App\Documentation\CVR_Field_Analysis.docx
+c:\GoogleSync\GuardianShip_App\Documentation\DOCUMENT_AI_IMPLEMENTATION_SUMMARY.md
+c:\GoogleSync\GuardianShip_App\Documentation\DOCUMENT_AI_QUICK_START.md
+c:\GoogleSync\GuardianShip_App\Documentation\DOCUMENT_AI_SETUP_GUIDE.md
+c:\GoogleSync\GuardianShip_App\Documentation\EXCEL_PROTECTION_AUDIT.md
+c:\GoogleSync\GuardianShip_App\Documentation\FINAL_STATUS_20251028.md
+c:\GoogleSync\GuardianShip_App\Documentation\FOLDER_STRUCTURE_AND_WORKFLOW.md
+c:\GoogleSync\GuardianShip_App\Documentation\GETTING_STARTED.md
+c:\GoogleSync\GuardianShip_App\Documentation\GOOGLE_MAPS_SETUP.md
+c:\GoogleSync\GuardianShip_App\Documentation\RELEASE_CHECKLIST.md
+c:\GoogleSync\GuardianShip_App\Documentation\SCRIPT_ERROR_HANDLING_AUDIT.md
+c:\GoogleSync\GuardianShip_App\Documentation\SESSION_SUMMARY_20251028.md
+c:\GoogleSync\GuardianShip_App\Documentation\START_HERE.txt
+c:\GoogleSync\GuardianShip_App\Documentation\STEP_10_SETUP_GUIDE.md
+c:\GoogleSync\GuardianShip_App\Documentation\TEST_RESULTS_20251028.md
+c:\GoogleSync\GuardianShip_App\Documentation\Unnamed_Controls_List.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777
+c:\GoogleSync\GuardianShip_App\New Clients\Hall, Alexandra - 08-088136
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942
+c:\GoogleSync\GuardianShip_App\New Clients\Potter, Mark - 09-001594
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706
+c:\GoogleSync\GuardianShip_App\New Clients\Turnbaugh, Elizabeth - 00-074302
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357
+c:\GoogleSync\GuardianShip_App\New Clients\Ximenez, Jose - 99-071988
+c:\GoogleSync\GuardianShip_App\New Clients\_logs
+c:\GoogleSync\GuardianShip_App\New Clients\_Unmatched
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\APPROVAL1 - approval_1.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\ARP1 - ARP_1 (1).pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\ARP1 - ARP_1.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\Brener, Benjamin, 06-085777 Court Visitor Report (2).docx
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\Brener, Benjamin, 06-085777 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\ORDER1 - order_1 (1).pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Brener, Benjamin - 06-085777\ORDER1 - order_1.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Hall, Alexandra - 08-088136\ARP5 - ARP5.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Hall, Alexandra - 08-088136\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Hall, Alexandra - 08-088136\Hall, Alexandra, 08-088136 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Hall, Alexandra - 08-088136\ORDER5 - order5.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\APPROVAL - approval.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\ARP - ARP.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Luna, Oscar, 05-082942 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\ORDER - order.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Reich, Quinn Leboeuf - 14-000172
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Reich, Quinn Leboeuf - 14-000172\APPROVAL3 - approval_3.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Reich, Quinn Leboeuf - 14-000172\ARP3 - ARP_3.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Reich, Quinn Leboeuf - 14-000172\ORDER3 - order_3.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Luna, Oscar - 05-082942\Reich, Quinn Leboeuf - 14-000172\Reich, Quinn, 14-000172 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Potter, Mark - 09-001594\APPROVAL2 - approval_2.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Potter, Mark - 09-001594\ARP2 - ARP_2.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Potter, Mark - 09-001594\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Potter, Mark - 09-001594\ORDER2 - order_2.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Potter, Mark - 09-001594\Potter, Mark, 09-001594 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\ARP5 - ARP_5.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\Confirmation Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\Followup Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\Meeting Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\ORDER5 - order_5.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Roberts, Jay Daniel - 17-000201\Roberts, Jay, 17-000201 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\ARP6 - ARP_6.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\Confirmation Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\Followup Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\Meeting Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\ORDER6 - order_6.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Taylor, Ryan Matthew - 22-000706\Taylor, Ryan, 22-000706 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Turnbaugh, Elizabeth - 00-074302\ARP (2).pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Turnbaugh, Elizabeth - 00-074302\order2 - order (2).pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Turnbaugh, Elizabeth - 00-074302\Turnbaugh, Elizabeth, 00-074302 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\ARP7 - ARP_7.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\Confirmation Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\Followup Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\Meeting Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\ORDER7 - order_7.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Warren, David Patrick - 23-000357\Warren, David, 23-000357 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\Ximenez, Jose - 99-071988\APPROVAL8 - approval_8.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Ximenez, Jose - 99-071988\ARP_8.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Ximenez, Jose - 99-071988\Correspondence
+c:\GoogleSync\GuardianShip_App\New Clients\Ximenez, Jose - 99-071988\ORDER8 - order_8.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\Ximenez, Jose - 99-071988\Ximenez, Jose, 99-071988 Court Visitor Report.docx
+c:\GoogleSync\GuardianShip_App\New Clients\_logs\cvr_folder_builder_20251028_202650.log
+c:\GoogleSync\GuardianShip_App\New Clients\_logs\cvr_folder_builder_20251030_090659.log
+c:\GoogleSync\GuardianShip_App\New Clients\_logs\cvr_folder_builder_20251030_090813.log
+c:\GoogleSync\GuardianShip_App\New Clients\_Unmatched\ARP3.pdf
+c:\GoogleSync\GuardianShip_App\New Clients\_Unmatched\ARP4.pdf
+c:\GoogleSync\GuardianShip_App\New Files\_Unmatched
+c:\GoogleSync\GuardianShip_App\Scripts\analyze_cvr_fields.py
+c:\GoogleSync\GuardianShip_App\Scripts\analyze_cvr_template.py
+c:\GoogleSync\GuardianShip_App\Scripts\auto_name_controls.py
+c:\GoogleSync\GuardianShip_App\Scripts\check_extraction_results.py
+c:\GoogleSync\GuardianShip_App\Scripts\clear_sheet1_rows.py
+c:\GoogleSync\GuardianShip_App\Scripts\cvr_content_control_utils.py
+c:\GoogleSync\GuardianShip_App\Scripts\cvr_content_control_utils_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\Scripts\cvr_folder_builder_BACKUP_20251028.py
+c:\GoogleSync\GuardianShip_App\Scripts\cvr_folder_builder_BACKUP_20251028_122420.py
+c:\GoogleSync\GuardianShip_App\Scripts\debug_toney_guardian_section.py
+c:\GoogleSync\GuardianShip_App\Scripts\diagnose_step10.py
+c:\GoogleSync\GuardianShip_App\Scripts\fix_all_script_paths.py
+c:\GoogleSync\GuardianShip_App\Scripts\fix_control_name_typos.py
+c:\GoogleSync\GuardianShip_App\Scripts\format_excel_file.py
+c:\GoogleSync\GuardianShip_App\Scripts\google_sheets_cvr_autofill.py
+c:\GoogleSync\GuardianShip_App\Scripts\list_unnamed_controls.py
+c:\GoogleSync\GuardianShip_App\Scripts\show_missing_controls.py
+c:\GoogleSync\GuardianShip_App\Scripts\test_brener_ocr.py
+c:\GoogleSync\GuardianShip_App\Scripts\test_document_ai_output.py
+c:\GoogleSync\GuardianShip_App\Scripts\test_guardian2_extraction.py
+c:\GoogleSync\GuardianShip_App\Scripts\test_hall_ocr.py
+c:\GoogleSync\GuardianShip_App\Scripts\test_step10_setup.py
+c:\GoogleSync\GuardianShip_App\Scripts\test_toney_only.py
+c:\GoogleSync\GuardianShip_App\Scripts\unprotect_cvr_template.py
+c:\GoogleSync\GuardianShip_App\Scripts\verify_control_names.py
+c:\GoogleSync\GuardianShip_App\Scripts\__pycache__
+c:\GoogleSync\GuardianShip_App\Scripts\__pycache__\cvr_content_control_utils.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\Templates\Court Visitor Report fillable new.docx
+c:\GoogleSync\GuardianShip_App\Templates\Court_Visitor_Payment_Invoice.docx
+c:\GoogleSync\GuardianShip_App\Templates\Mileage_Reimbursement_Form.xlsx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\14-000172_Reich_Quinn_10-30-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\15-000428_Cox_Ty_10-31-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\18-000194_Toney_Emma_11-02-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\18-000194_Toney_Emma_11-05-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\19-002069_Huerta_Gabriela_11-03-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\20-001710_Jones_Andrew_11-04-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\99-071988_Ximenez_Jose_11-04-2025.docx
+c:\GoogleSync\GuardianShip_App\Visit Summary Forms\Unknown___11-05-2025.docx
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Confirmation Email - Cagle, Sara - 2025-10-31.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Confirmation Email - Jimmerson, Abby - 2025-10-31.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Confirmation Email - Mogonye, Mason - 2025-10-31.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Confirmation Email - Wolk, James - 2025-10-31.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Confirmation Email - Zarola, Aidan - 2025-10-31.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Brener, Benjamin - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Brener, Benjamin - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Brener, Benjamin - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Cox, Ty - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Cox, Ty - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Cox, Ty - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Dennis, Abigail - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Eudv, Kimberly - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Halford, Jon - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Hall, Alexandra - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Huerta, Gabriela - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Huerta, Gabriela - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Huerta, Gabriela - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Jones, Andrew - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Luna, Oscar - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Luna, Oscar - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Mosonye, Mason - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Park, Mina - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Park, Mina - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Park, Mina - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Potter, Mark - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Potter, Mark - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Reich, Quinn - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Reich, Quinn - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Roberts, Jay - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Roberts, Jay - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Toney, Emma - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Toney, Emma - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Toney, Emma - 2025-10-28.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Turnbaugh, Elizabeth - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Turnbaugh, Elizabeth - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Wagner, Carter - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Ximenez, Jose - 2025-10-24.txt
+c:\GoogleSync\GuardianShip_App\_Correspondence_Pending\Meeting Email - Ximenez, Jose - 2025-10-25.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Dennis, Abigail - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Eudv, Kimberly - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Halford, Jon - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Mosonye, Mason - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Roberts, Jay - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Taylor, Ryan - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Wagner, Carter - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\_Unmatched Emails\Meeting Email - Warren, David - 2025-10-30.txt
+c:\GoogleSync\GuardianShip_App\__pycache__\court_visitor_chatbot.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\__pycache__\email_cvr_to_supervisor.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\__pycache__\google_sheets_cvr_integration_fixed.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\__pycache__\guardianship_app.cpython-314.pyc
+c:\GoogleSync\GuardianShip_App\__pycache__\guardian_extractor_claudecode20251023_bestever_11pm.cpython-314.pyc

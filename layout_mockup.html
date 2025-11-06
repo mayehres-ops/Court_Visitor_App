@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            background: #f0f0f0;
+        }
+        .option {
+            margin: 30px auto;
+            max-width: 1200px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #7c3aed;
+            border-bottom: 3px solid #7c3aed;
+            padding-bottom: 10px;
+        }
+        .mockup {
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        .app-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /* OPTION 1: Current Sidebar (Scrollable) */
+        .option1 {
+            display: flex;
+            height: 600px;
+        }
+        .sidebar-scroll {
+            width: 250px;
+            background: #f8fafc;
+            border-right: 2px solid #e2e8f0;
+            overflow-y: auto;
+            padding: 10px;
+        }
+        .sidebar-scroll .btn {
+            background: white;
+            padding: 12px;
+            margin: 5px 0;
+            border: 1px solid #cbd5e1;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .sidebar-scroll .btn.special {
+            background: #7c3aed;
+            color: white;
+            font-weight: bold;
+            padding: 15px;
+        }
+        .sidebar-scroll .separator {
+            height: 1px;
+            background: #cbd5e1;
+            margin: 10px 0;
+        }
+        .sidebar-scroll .header {
+            color: #64748b;
+            font-size: 11px;
+            font-weight: bold;
+            margin: 15px 0 5px 5px;
+        }
+        .main-content {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background: white;
+        }
+
+        /* OPTION 2: Top Tabs */
+        .option2 {
+            height: 600px;
+            display: flex;
+            flex-direction: column;
+        }
+        .tabs-top {
+            display: flex;
+            background: #f8fafc;
+            border-bottom: 3px solid #7c3aed;
+            overflow-x: auto;
+            flex-wrap: wrap;
+        }
+        .tab {
+            padding: 12px 20px;
+            border: 1px solid #e2e8f0;
+            border-bottom: none;
+            margin-right: 2px;
+            cursor: pointer;
+            background: white;
+            white-space: nowrap;
+            font-size: 13px;
+        }
+        .tab.active {
+            background: #7c3aed;
+            color: white;
+            font-weight: bold;
+        }
+        .tab.special {
+            background: #7c3aed;
+            color: white;
+            font-weight: bold;
+        }
+
+        /* OPTION 3: Collapsible Sidebar */
+        .option3 {
+            display: flex;
+            height: 600px;
+        }
+        .sidebar-collapsible {
+            width: 250px;
+            background: #f8fafc;
+            border-right: 2px solid #e2e8f0;
+            overflow-y: auto;
+            padding: 10px;
+        }
+        .section {
+            margin: 10px 0;
+        }
+        .section-header {
+            background: #7c3aed;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+        }
+        .section-content {
+            padding: 5px 10px;
+        }
+
+        /* OPTION 4: Compact Icon Sidebar */
+        .option4 {
+            display: flex;
+            height: 600px;
+        }
+        .sidebar-icons {
+            width: 80px;
+            background: #1e293b;
+            padding: 10px 5px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .icon-btn {
+            width: 60px;
+            height: 60px;
+            background: #334155;
+            color: white;
+            margin: 5px 0;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+        .icon-btn.special {
+            background: #7c3aed;
+            border-color: #a78bfa;
+        }
+        .icon-btn:hover {
+            border-color: #7c3aed;
+        }
+
+        .pros {
+            color: #059669;
+            margin: 10px 0;
+        }
+        .cons {
+            color: #dc2626;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center; color: #7c3aed;">Court Visitor App - Layout Options</h1>
+
+    <!-- OPTION 1: Current Sidebar with Scroll -->
+    <div class="option">
+        <h2>Option 1: Current Sidebar (Make it Scrollable)</h2>
+        <p><strong>Safest Option - Minimal Changes!</strong></p>
+        <div class="mockup">
+            <div class="app-header">Court Visitor App</div>
+            <div class="option1">
+                <div class="sidebar-scroll">
+                    <div style="font-weight: bold; padding: 10px; font-size: 16px;">Quick Access</div>
+                    <div class="btn">📖 Getting Started</div>
+                    <div class="btn special">🤖 Ask Chatbot</div>
+                    <div class="separator"></div>
+                    <div class="btn">📊 Excel File</div>
+                    <div class="btn">📁 New Clients</div>
+                    <div class="btn">📂 New Files</div>
+                    <div class="separator"></div>
+                    <div class="header">⚙️ API SETUP</div>
+                    <div class="btn">🔧 Setup Vision API</div>
+                    <div class="btn">🗺️ Setup Maps API</div>
+                    <div class="btn">📧 Setup Gmail API</div>
+                    <div class="btn">👥 Setup People/Calendar</div>
+                    <div class="btn">📊 Setup Sheets API</div>
+                    <div class="separator"></div>
+                    <div class="header">💬 HELP & SUPPORT</div>
+                    <div class="btn">❓ Quick Help</div>
+                    <div class="btn">📖 Manual</div>
+                    <div class="btn">🆘 Live Tech Support</div>
+                </div>
+                <div class="main-content">
+                    <h3>Step 1: OCR Guardian Data</h3>
+                    <p>Extract data from ORDER and ARP PDFs...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 1</button>
+                    <hr>
+                    <h3>Step 2: Organize Case Files</h3>
+                    <p>Create folders and organize files...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 2</button>
+                </div>
+            </div>
+        </div>
+        <div class="pros">
+            ✅ <strong>PROS:</strong>
+            <ul>
+                <li>SAFEST - Only adds scrollbar to sidebar</li>
+                <li>No risk of breaking existing functionality</li>
+                <li>All buttons stay exactly where they are</li>
+                <li>Chatbot stays prominent at position #2</li>
+                <li>Takes 5 minutes to implement</li>
+            </ul>
+        </div>
+        <div class="cons">
+            ❌ <strong>CONS:</strong>
+            <ul>
+                <li>Still need to scroll sidebar to see all buttons</li>
+                <li>Doesn't solve "can't see all buttons" completely</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- OPTION 2: Top Tabs -->
+    <div class="option">
+        <h2>Option 2: Tabs on Top</h2>
+        <p><strong>More visible, but requires reorganization</strong></p>
+        <div class="mockup">
+            <div class="app-header">Court Visitor App</div>
+            <div class="option2">
+                <div class="tabs-top">
+                    <div class="tab">📖 Getting Started</div>
+                    <div class="tab special">🤖 Chatbot</div>
+                    <div class="tab">📊 Excel</div>
+                    <div class="tab">📁 Folders</div>
+                    <div class="tab">🔧 Vision API</div>
+                    <div class="tab">🗺️ Maps API</div>
+                    <div class="tab">📧 Gmail API</div>
+                    <div class="tab">👥 People/Calendar</div>
+                    <div class="tab">📊 Sheets API</div>
+                    <div class="tab">❓ Help</div>
+                    <div class="tab">📖 Manual</div>
+                    <div class="tab">🆘 Tech Support</div>
+                </div>
+                <div class="main-content">
+                    <h3>Step 1: OCR Guardian Data</h3>
+                    <p>Extract data from ORDER and ARP PDFs...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 1</button>
+                    <hr>
+                    <h3>Step 2: Organize Case Files</h3>
+                    <p>Create folders and organize files...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 2</button>
+                </div>
+            </div>
+        </div>
+        <div class="pros">
+            ✅ <strong>PROS:</strong>
+            <ul>
+                <li>All buttons visible at once (no scrolling!)</li>
+                <li>Modern, clean look</li>
+                <li>Chatbot still prominent with purple color</li>
+                <li>More screen space for main workflow steps</li>
+            </ul>
+        </div>
+        <div class="cons">
+            ❌ <strong>CONS:</strong>
+            <ul>
+                <li>Requires moderate code changes (2-3 hours)</li>
+                <li>Tabs might wrap on smaller screens</li>
+                <li>Small risk of breaking button functions</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- OPTION 3: Collapsible Sections -->
+    <div class="option">
+        <h2>Option 3: Collapsible Sidebar Sections</h2>
+        <p><strong>Organized by category, expandable sections</strong></p>
+        <div class="mockup">
+            <div class="app-header">Court Visitor App</div>
+            <div class="option3">
+                <div class="sidebar-collapsible">
+                    <div style="font-weight: bold; padding: 10px; font-size: 16px;">Quick Access</div>
+
+                    <div class="section">
+                        <div class="section-header">
+                            🎯 ESSENTIALS
+                            <span>▼</span>
+                        </div>
+                        <div class="section-content">
+                            <div class="btn">📖 Getting Started</div>
+                            <div class="btn special">🤖 Ask Chatbot</div>
+                        </div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-header">
+                            📁 FILES
+                            <span>▼</span>
+                        </div>
+                        <div class="section-content">
+                            <div class="btn">📊 Excel File</div>
+                            <div class="btn">📁 New Clients</div>
+                            <div class="btn">📂 New Files</div>
+                        </div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-header">
+                            ⚙️ API SETUP
+                            <span>▼</span>
+                        </div>
+                        <div class="section-content">
+                            <div class="btn">🔧 Setup Vision API</div>
+                            <div class="btn">🗺️ Setup Maps API</div>
+                            <div class="btn">📧 Setup Gmail API</div>
+                            <div class="btn">👥 People/Calendar</div>
+                            <div class="btn">📊 Sheets API</div>
+                        </div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-header">
+                            💬 HELP & SUPPORT
+                            <span>▼</span>
+                        </div>
+                        <div class="section-content">
+                            <div class="btn">❓ Quick Help</div>
+                            <div class="btn">📖 Manual</div>
+                            <div class="btn">🆘 Live Tech Support</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main-content">
+                    <h3>Step 1: OCR Guardian Data</h3>
+                    <p>Extract data from ORDER and ARP PDFs...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 1</button>
+                </div>
+            </div>
+        </div>
+        <div class="pros">
+            ✅ <strong>PROS:</strong>
+            <ul>
+                <li>Very organized by category</li>
+                <li>Can collapse sections you don't use often</li>
+                <li>Essentials (Chatbot!) always visible at top</li>
+                <li>Professional, modern look</li>
+            </ul>
+        </div>
+        <div class="cons">
+            ❌ <strong>CONS:</strong>
+            <ul>
+                <li>Requires significant code changes (3-4 hours)</li>
+                <li>Need to click to expand/collapse sections</li>
+                <li>Moderate risk of breaking functionality</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- OPTION 4: Icon Sidebar -->
+    <div class="option">
+        <h2>Option 4: Compact Icon Sidebar (Like VS Code)</h2>
+        <p><strong>Super compact, hover to see labels</strong></p>
+        <div class="mockup">
+            <div class="app-header">Court Visitor App</div>
+            <div class="option4">
+                <div class="sidebar-icons">
+                    <div class="icon-btn">📖</div>
+                    <div class="icon-btn special">🤖</div>
+                    <div class="icon-btn">📊</div>
+                    <div class="icon-btn">📁</div>
+                    <div class="icon-btn">🔧</div>
+                    <div class="icon-btn">🗺️</div>
+                    <div class="icon-btn">📧</div>
+                    <div class="icon-btn">👥</div>
+                    <div class="icon-btn">📊</div>
+                    <div class="icon-btn">❓</div>
+                    <div class="icon-btn">📖</div>
+                    <div class="icon-btn">🆘</div>
+                </div>
+                <div class="main-content">
+                    <h3>Step 1: OCR Guardian Data</h3>
+                    <p>Extract data from ORDER and ARP PDFs...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 1</button>
+                    <hr>
+                    <h3>Step 2: Organize Case Files</h3>
+                    <p>Create folders and organize files...</p>
+                    <button style="background: #7c3aed; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Run Step 2</button>
+                </div>
+            </div>
+        </div>
+        <div class="pros">
+            ✅ <strong>PROS:</strong>
+            <ul>
+                <li>Maximum screen space for workflow steps</li>
+                <li>All buttons visible at once</li>
+                <li>Very modern, professional look</li>
+                <li>Chatbot purple icon stands out beautifully</li>
+            </ul>
+        </div>
+        <div class="cons">
+            ❌ <strong>CONS:</strong>
+            <ul>
+                <li>No text labels visible (must hover)</li>
+                <li>Requires significant rewrite (4-5 hours)</li>
+                <li>Higher risk of breaking things</li>
+                <li>May confuse users initially</li>
+            </ul>
+        </div>
+    </div>
+
+    <div style="background: #7c3aed; color: white; padding: 30px; border-radius: 10px; text-align: center; margin: 30px auto; max-width: 1200px;">
+        <h2 style="color: white; border: none; margin: 0 0 20px 0;">My Recommendation: OPTION 1 (Scrollable Sidebar)</h2>
+        <p style="font-size: 18px; margin: 10px 0;">✅ Safest - Won't break anything</p>
+        <p style="font-size: 18px; margin: 10px 0;">⚡ Fastest - 5 minutes to implement</p>
+        <p style="font-size: 18px; margin: 10px 0;">🎯 Effective - You can see all buttons by scrolling</p>
+        <p style="font-size: 18px; margin: 10px 0;">💜 Keeps chatbot prominent with purple styling</p>
+        <p style="margin-top: 20px;">We can always upgrade to Option 2 or 3 later if you want!</p>
+    </div>
+
+</body>
+</html>

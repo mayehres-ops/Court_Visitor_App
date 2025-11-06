@@ -1,0 +1,86 @@
+===== Sat 10/04/2025  4:49:48.79 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+[init] Google key detected: True; Directions: True
+[geocode] Google returned 0 results for: 42 roon
+[geocode] success=5 failed=1
+   - 42 roon
+[geocode] 1 address(es) could not be geocoded and will be skipped on the map.
+[output] writing: C:\GoogleSync\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+Map sheet created: C:\GoogleSync\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+[init] Google key detected: True; Directions: True
+[geocode] Google returned 0 results for: 42 roon
+[geocode] success=5 failed=1
+   - 42 roon
+[geocode] 1 address(es) could not be geocoded and will be skipped on the map.
+[output] writing: C:\GoogleSync\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+Map sheet created: C:\GoogleSync\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+Created: C:\GoogleSync\Automation\Court Visitor Summary\22-002744_Zarola_Aidan_.docx
+All summaries saved to: C:\GoogleSync\Automation\Court Visitor Summary
+
+Done. If the folder didn't open, files are in:
+  C:\GoogleSync\Automation\Court Visitor Summary
+
+Press any key to continue . . . ===== Sun 10/05/2025  0:53:02.50 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+[init] Google key detected: True; Directions: True
+[geocode] Google returned 0 results for: 42 roon
+[geocode] success=5 failed=1
+   - 42 roon
+[geocode] 1 address(es) could not be geocoded and will be skipped on the map.
+[output] writing: C:\GoogleSync\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+Map sheet created: C:\GoogleSync\Automation\Build Map Sheet\Ward_Map_Sheet.docx
+===== Thu 10/09/2025  0:41:54.67 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+Traceback (most recent call last):
+  File "C:\Users\may\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'wardaddress'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\GoogleSync\Automation\Build Map Sheet\Scripts\build_map_sheet.py", line 675, in <module>
+    main()
+    ~~~~^^
+  File "C:\GoogleSync\Automation\Build Map Sheet\Scripts\build_map_sheet.py", line 546, in main
+    df = df[df[ADDRESS_COL].astype(str).str.strip().ne("")].copy()
+            ~~^^^^^^^^^^^^^
+  File "C:\Users\may\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\may\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'wardaddress'
+^C===== Thu 10/09/2025  0:56:10.62 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+
+[init] GOOGLE_MAPS_API_KEY detected in this session/user env.
+on was unexpected at this time.
+===== Thu 10/09/2025 10:09:16.67 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+
+[init] GOOGLE_MAPS_API_KEY detected in this session/user env.
+on was unexpected at this time.
+^C===== Thu 10/09/2025 10:15:56.83 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+===============================
+ Appt Email Confirm - MENU
+===============================
+1) Test - Dry Run (no send, no write)
+2) Test - Send One (marks Y)
+3) Live - All Eligible (marks Y)
+
+Select an option [1,2,3]?^C^C===== Thu 10/09/2025 10:17:51.69 ===== 
+Launching: "C:\GoogleSync\Automation\Menu\cvp_menu.py" 
+===============================
+ Appt Email Confirm - MENU
+===============================
+1) Test - Dry Run (no send, no write)
+2) Test - Send One (marks Y)
+3) Live - All Eligible (marks Y)
+
+Select an option [1,2,3]?^C

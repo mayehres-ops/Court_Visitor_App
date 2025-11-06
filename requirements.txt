@@ -1,0 +1,29 @@
+# Core Excel/PDF processing
+openpyxl>=3.1.0
+pdfplumber>=0.9.0
+pandas>=1.5.0
+python-docx>=0.8.11
+Pillow>=9.0.0
+
+# Google APIs
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.0.0
+
+# OCR (Google Vision API alternative)
+pdf2image>=3.1.0
+pytesseract>=0.3.10
+
+# Map/Geocoding (Step 3)
+geopy>=2.4.0
+matplotlib>=3.5.0
+pyproj>=3.0.0
+googlemaps>=4.10.0
+# contextily>=1.6.0  # Optional - adds basemap tiles to maps (requires GDAL, difficult on Windows)
+
+# Word document automation
+pywin32>=305
+
+# Date/Time utilities
+python-dateutil>=2.8.0

@@ -1,0 +1,89 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Court Visitor App
+Copyright (c) 2024-2025 GuardianShip Easy, LLC. All rights reserved.
+
+IMPORTANT - READ CAREFULLY: This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and GuardianShip Easy, LLC for the Court Visitor App software product, which includes computer software and may include associated media, printed materials, and online or electronic documentation ("Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. GRANT OF LICENSE
+
+GuardianShip Easy, LLC grants you a non-exclusive, non-transferable, limited license to install and use the Software on computers owned, leased, or controlled by you, solely for your internal business purposes as a Court Visitor in Travis County, Texas.
+
+2. RESTRICTIONS
+
+You may NOT:
+   a) Sell, rent, lease, sublicense, or otherwise transfer the Software to any third party
+   b) Distribute or make the Software available over a network where it could be used by multiple devices at the same time
+   c) Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software
+   d) Remove or alter any copyright, trademark, or other proprietary notices from the Software
+   e) Use the Software for any unlawful purpose or in violation of any applicable laws
+   f) Modify, adapt, translate, or create derivative works based on the Software
+
+THIS SOFTWARE IS NOT FOR RESALE. Any attempt to sell, resell, or commercially distribute this Software is strictly prohibited and will result in immediate termination of this license.
+
+3. DATA CONFIDENTIALITY AND PRIVACY
+
+IMPORTANT: This Software processes sensitive information including personal data of wards, guardians, and court-appointed visitors. You agree to:
+
+   a) Maintain the confidentiality and security of all data processed through the Software
+   b) Comply with all applicable federal and state privacy laws, including but not limited to HIPAA and Texas state confidentiality requirements
+   c) Use appropriate safeguards to protect personal information from unauthorized access, use, or disclosure
+   d) Not share, sell, or disclose any data obtained through the Software to unauthorized parties
+   e) Immediately report any data breaches or unauthorized access
+
+GuardianShip Easy, LLC does NOT collect, store, or have access to any personal data processed through the Software. All data remains on your local system or your authorized Google account. You are solely responsible for data security and compliance with applicable privacy laws.
+
+4. INTELLECTUAL PROPERTY RIGHTS
+
+The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The Software is licensed, not sold. GuardianShip Easy, LLC retains all rights, title, and interest in and to the Software, including all copyrights, patents, trade secrets, trademarks, and other intellectual property rights.
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. GUARDIANSHIP EASY, LLC DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL GUARDIANSHIP EASY, LLC BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF GUARDIANSHIP EASY, LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Some states do not allow the exclusion or limitation of liability for consequential or incidental damages, so the above limitation may not apply to you.
+
+7. GOOGLE API SERVICES
+
+This Software uses Google API Services (Gmail, Calendar, Sheets, Drive) and is subject to Google's Terms of Service and Privacy Policy. By using this Software, you also agree to:
+   - Google API Services Terms of Service: https://developers.google.com/terms
+   - Google Privacy Policy: https://policies.google.com/privacy
+
+8. TERMINATION
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from GuardianShip Easy, LLC if you fail to comply with any term(s) of this Agreement. Upon termination, you must destroy all copies of the Software and all of its component parts.
+
+9. UPDATES AND SUPPORT
+
+GuardianShip Easy, LLC may, but is not obligated to, provide updates, bug fixes, or technical support for the Software. Any updates provided shall be considered part of the Software and subject to the terms of this Agreement.
+
+10. JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, United States of America, without regard to its conflict of law provisions. Any legal action or proceeding arising under this Agreement shall be brought exclusively in the state or federal courts located in Travis County, Texas.
+
+11. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and GuardianShip Easy, LLC concerning the Software and supersedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Software or any other subject matter covered by this Agreement.
+
+12. SEVERABILITY
+
+If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable, and such decision shall not affect the enforceability of such provision under other circumstances, or of the remaining provisions hereof under all circumstances.
+
+13. CONTACT INFORMATION
+
+For questions regarding this Agreement or the Software, please contact:
+
+GuardianShip Easy, LLC
+Email: support@guardianshipeasy.com
+Website: www.GuardianshipEasy.com
+
+BY CLICKING "I ACCEPT" OR BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Last Updated: November 6, 2024
+Version: 1.0
