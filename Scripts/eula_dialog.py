@@ -30,11 +30,12 @@ class EULADialog:
 
         self.root.title("End User License Agreement")
 
-        # Window size
+        # Window size - optimized for visibility on all screen sizes
         width = 700
-        height = 600
+        height = 550  # Reduced height to fit smaller screens
         self.root.geometry(f"{width}x{height}")
         self.root.resizable(True, True)
+        self.root.minsize(700, 450)  # Prevent resizing too small
 
         # Center window
         self.root.update_idletasks()
@@ -69,8 +70,8 @@ class EULADialog:
 
     def _build_ui(self):
         """Build the user interface."""
-        # Header
-        header_frame = tk.Frame(self.root, bg='#dc2626', height=80)
+        # Header - reduced height
+        header_frame = tk.Frame(self.root, bg='#dc2626', height=60)
         header_frame.pack(fill='x')
         header_frame.pack_propagate(False)
 
@@ -78,27 +79,26 @@ class EULADialog:
         header_label = tk.Label(
             header_frame,
             text=header_text,
-            font=('Segoe UI', 14, 'bold'),
+            font=('Segoe UI', 12, 'bold'),
             bg='#dc2626',
             fg='white',
             justify='center'
         )
         header_label.pack(expand=True)
 
-        # Main content frame
-        content_frame = tk.Frame(self.root, padx=20, pady=20)
+        # Main content frame - reduced padding
+        content_frame = tk.Frame(self.root, padx=15, pady=10)
         content_frame.pack(fill='both', expand=True)
 
-        # Instructions
+        # Instructions - more compact
         instructions = tk.Label(
             content_frame,
-            text="Please read the following license agreement carefully.\n"
-                 "You must accept the terms to use this software.",
-            font=('Segoe UI', 10),
+            text="Please read and accept the license agreement to continue.",
+            font=('Segoe UI', 9),
             justify='left',
             wraplength=650
         )
-        instructions.pack(anchor='w', pady=(0, 10))
+        instructions.pack(anchor='w', pady=(0, 5))
 
         # EULA text area (scrolled text)
         text_frame = tk.Frame(content_frame, relief='sunken', borderwidth=1)
@@ -115,36 +115,40 @@ class EULADialog:
         self.text_widget.insert('1.0', self.eula_text)
         self.text_widget.config(state='disabled')  # Read-only
 
-        # Acceptance checkbox
+        # Acceptance checkbox - more compact
         accept_frame = tk.Frame(content_frame)
-        accept_frame.pack(fill='x', pady=(15, 10))
+        accept_frame.pack(fill='x', pady=(8, 5))
 
         self.accept_var = tk.BooleanVar(value=False)
         self.accept_checkbox = tk.Checkbutton(
             accept_frame,
             text="I have read and agree to the terms of the End User License Agreement",
             variable=self.accept_var,
-            font=('Segoe UI', 10, 'bold'),
+            font=('Segoe UI', 9, 'bold'),
             command=self._on_checkbox_change
         )
         self.accept_checkbox.pack(anchor='w')
 
-        # Warning label
+        # Warning label - more compact
         self.warning_label = tk.Label(
             content_frame,
             text="⚠ You must accept the agreement to continue",
-            font=('Segoe UI', 9),
+            font=('Segoe UI', 8),
             fg='#dc2626'
         )
-        self.warning_label.pack(anchor='w', pady=(5, 10))
+        self.warning_label.pack(anchor='w', pady=(2, 5))
 
-        # Button frame
-        btn_frame = tk.Frame(self.root, pady=15, bg='#f3f4f6')
-        btn_frame.pack(side='bottom', fill='x')
+        # Button frame - positioned at bottom with minimal padding
+        btn_frame = tk.Frame(self.root, bg='#f3f4f6')
+        btn_frame.pack(side='bottom', fill='x', pady=5, padx=10)
+
+        # Inner button container for better layout
+        btn_container = tk.Frame(btn_frame, bg='#f3f4f6')
+        btn_container.pack(fill='x', pady=5)
 
         # Accept button (disabled initially)
         self.accept_btn = tk.Button(
-            btn_frame,
+            btn_container,
             text="Accept and Continue",
             command=self._on_accept,
             font=('Segoe UI', 10, 'bold'),
@@ -155,11 +159,11 @@ class EULADialog:
             cursor='hand2',
             state='disabled'
         )
-        self.accept_btn.pack(side='right', padx=(5, 30))
+        self.accept_btn.pack(side='right', padx=(5, 20))
 
         # Decline button
         decline_btn = tk.Button(
-            btn_frame,
+            btn_container,
             text="Decline and Exit",
             command=self._on_decline,
             font=('Segoe UI', 10),
