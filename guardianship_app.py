@@ -3171,6 +3171,18 @@ def main():
     root = tk.Tk()
     app = GuardianShipApp(root)
 
+    # Bring window to foreground and maximize
+    root.lift()  # Bring window above other windows
+    root.attributes('-topmost', True)  # Temporarily make topmost
+    root.after_idle(root.attributes, '-topmost', False)  # Remove topmost after display
+    root.focus_force()  # Force focus on the window
+
+    # Maximize window on Windows
+    try:
+        root.state('zoomed')  # Windows maximize
+    except:
+        pass  # If zoomed not supported, use geometry setting
+
     # Check for updates on startup (in background thread)
     if AUTO_UPDATE_ENABLED:
         try:
